@@ -1,0 +1,220 @@
+LOCUS       NM_001385125            1106 bp    mRNA    linear   PRI 20-APR-2022
+DEFINITION  Homo sapiens opsin 1, short wave sensitive (OPN1SW), mRNA.
+ACCESSION   NM_001385125
+VERSION     NM_001385125.1
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1106)
+  AUTHORS   Lan Y, Wang Y and Lu H.
+  TITLE     Opsin 3 is a key regulator of ultraviolet A-induced photoageing in
+            human dermal fibroblast cells
+  JOURNAL   Br J Dermatol 182 (5), 1228-1244 (2020)
+   PUBMED   31380578
+REFERENCE   2  (bases 1 to 1106)
+  AUTHORS   Neitz,M., Krekling,E.D., Hagen,L.A., Pedersen,H.R., Rowlan,J.,
+            Barborek,R., Neitz,J., Crain,A. and Baraas,R.C.
+  TITLE     Tritan color vision deficiency may be associated with an OPN1SW
+            splicing defect and haploinsufficiency
+  JOURNAL   J Opt Soc Am A Opt Image Sci Vis 37 (4), A26-A34 (2020)
+   PUBMED   32400513
+  REMARK    GeneRIF: Tritan color vision deficiency may be associated with an
+            OPN1SW splicing defect and haploinsufficiency.
+REFERENCE   3  (bases 1 to 1106)
+  AUTHORS   Luck K, Kim DK, Lambourne L, Spirohn K, Begg BE, Bian W, Brignall
+            R, Cafarelli T, Campos-Laborie FJ, Charloteaux B, Choi D, Cote AG,
+            Daley M, Deimling S, Desbuleux A, Dricot A, Gebbia M, Hardy MF,
+            Kishore N, Knapp JJ, Kovacs IA, Lemmens I, Mee MW, Mellor JC,
+            Pollis C, Pons C, Richardson AD, Schlabach S, Teeking B, Yadav A,
+            Babor M, Balcha D, Basha O, Bowman-Colin C, Chin SF, Choi SG,
+            Colabella C, Coppin G, D'Amata C, De Ridder D, De Rouck S,
+            Duran-Frigola M, Ennajdaoui H, Goebels F, Goehring L, Gopal A,
+            Haddad G, Hatchi E, Helmy M, Jacob Y, Kassa Y, Landini S, Li R, van
+            Lieshout N, MacWilliams A, Markey D, Paulson JN, Rangarajan S,
+            Rasla J, Rayhan A, Rolland T, San-Miguel A, Shen Y, Sheykhkarimli
+            D, Sheynkman GM, Simonovsky E, Tasan M, Tejeda A, Tropepe V,
+            Twizere JC, Wang Y, Weatheritt RJ, Weile J, Xia Y, Yang X,
+            Yeger-Lotem E, Zhong Q, Aloy P, Bader GD, De Las Rivas J, Gaudet S,
+            Hao T, Rak J, Tavernier J, Hill DE, Vidal M, Roth FP and Calderwood
+            MA.
+  TITLE     A reference map of the human binary protein interactome
+  JOURNAL   Nature 580 (7803), 402-408 (2020)
+   PUBMED   32296183
+REFERENCE   4  (bases 1 to 1106)
+  AUTHORS   Wang Y, Lan Y and Lu H.
+  TITLE     Opsin3 Downregulation Induces Apoptosis of Human Epidermal
+            Melanocytes via Mitochondrial Pathway
+  JOURNAL   Photochem Photobiol 96 (1), 83-93 (2020)
+   PUBMED   31730232
+REFERENCE   5  (bases 1 to 1106)
+  AUTHORS   Fitzgibbon J, Appukuttan B, Gayther S, Wells D, Delhanty J and Hunt
+            DM.
+  TITLE     Localisation of the human blue cone pigment gene to chromosome band
+            7q31.3-32
+  JOURNAL   Hum Genet 93 (1), 79-80 (1994)
+   PUBMED   8270261
+REFERENCE   6  (bases 1 to 1106)
+  AUTHORS   Weitz,C.J., Went,L.N. and Nathans,J.
+  TITLE     Human tritanopia associated with a third amino acid substitution in
+            the blue-sensitive visual pigment
+  JOURNAL   Am J Hum Genet 51 (2), 444-446 (1992)
+   PUBMED   1386496
+REFERENCE   7  (bases 1 to 1106)
+  AUTHORS   Weitz CJ, Miyake Y, Shinzato K, Montag E, Zrenner E, Went LN and
+            Nathans J.
+  TITLE     Human tritanopia associated with two amino acid substitutions in
+            the blue-sensitive opsin
+  JOURNAL   Am J Hum Genet 50 (3), 498-507 (1992)
+   PUBMED   1531728
+REFERENCE   8  (bases 1 to 1106)
+  AUTHORS   Oprian DD, Asenjo AB, Lee N and Pelletier SL.
+  TITLE     Design, chemical synthesis, and expression of genes for the three
+            human color vision pigments
+  JOURNAL   Biochemistry 30 (48), 11367-11372 (1991)
+   PUBMED   1742276
+REFERENCE   9  (bases 1 to 1106)
+  AUTHORS   Nathans,J., Thomas,D. and Hogness,D.S.
+  TITLE     Molecular genetics of human color vision: the genes encoding blue,
+            green, and red pigments
+  JOURNAL   Science 232 (4747), 193-202 (1986)
+   PUBMED   2937147
+REFERENCE   10 (bases 1 to 1106)
+  AUTHORS   Applebury,M.L. and Hargrave,P.A.
+  TITLE     Molecular biology of the visual pigments
+  JOURNAL   Vision Res 26 (12), 1881-1895 (1986)
+   PUBMED   3303660
+  REMARK    Review article
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AC024952.4.
+            This sequence is a reference standard in the RefSeqGene project.
+            
+            Summary: This gene belongs to the G-protein coupled receptor 1
+            family, opsin subfamily. It encodes the blue cone pigment gene
+            which is one of three types of cone photoreceptors responsible for
+            normal color vision. Defects in this gene are the cause of tritan
+            color blindness (tritanopia). Affected individuals lack blue and
+            yellow sensory mechanisms while retaining those for red and green.
+            Defective blue vision is characteristic. [provided by RefSeq, Jul
+            2008].
+            
+            Sequence Note: The RefSeq transcript and protein were derived from
+            genomic sequence to make the sequence consistent with the reference
+            genome assembly. The genomic coordinates used for the transcript
+            record were based on alignments.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: DQ822478.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1968968 [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            CDS uses downstream in-frame AUG :: upstream AUG and CDS extension
+                                                is not conserved
+            MANE Ensembl match               :: ENST00000249389.3/
+                                                ENSP00000249389.3
+            RefSeq Select criteria           :: based on single protein-coding
+                                                transcript
+            ##RefSeq-Attributes-END##
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-356               AC024952.4         59896-60251         c
+            357-525             AC024952.4         59443-59611         c
+            526-691             AC024952.4         58955-59120         c
+            692-931             AC024952.4         58106-58345         c
+            932-1106            AC024952.4         56942-57116         c
+FEATURES             Location/Qualifiers
+     source          1..1106
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="7"
+                     /map="7q32.1"
+     gene            1..1106
+                     /gene="OPN1SW"
+                     /gene_synonym="BCP; BOP; CBT"
+                     /note="opsin 1, short wave sensitive"
+                     /db_xref="GeneID:611"
+                     /db_xref="HGNC:HGNC:1012"
+                     /db_xref="MIM:613522"
+     exon            1..356
+                     /gene="OPN1SW"
+                     /gene_synonym="BCP; BOP; CBT"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    5..7
+                     /gene="OPN1SW"
+                     /gene_synonym="BCP; BOP; CBT"
+                     /note="upstream_AUG_codon; putative N-terminal extension:
+                     MRK"
+     CDS             14..1051
+                     /gene="OPN1SW"
+                     /gene_synonym="BCP; BOP; CBT"
+                     /note="blue cone photoreceptor pigment; blue-sensitive
+                     opsin; opsin 1 (cone pigments), short-wave-sensitive"
+                     /codon_start=1
+                     /product="short-wave-sensitive opsin 1"
+                     /protein_id="NP_001372054.1"
+                     /db_xref="CCDS:CCDS5806.1"
+                     /db_xref="GeneID:611"
+                     /db_xref="HGNC:HGNC:1012"
+                     /db_xref="MIM:613522"
+                     /translation="MSEEEFYLFKNISSVGPWDGPQYHIAPVWAFYLQAAFMGTVFLI
+                     GFPLNAMVLVATLRYKKLRQPLNYILVNVSFGGFLLCIFSVFPVFVASCNGYFVFGRH
+                     VCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFGNFRFSSKHALTVVLATWTIGIG
+                     VSIPPFFGWSRFIPEGLQCSCGPDWYTVGTKYRSESYTWFLFIFCFIVPLSLICFSYT
+                     QLLRALKAVAAQQQESATTQKAEREVSRMVVVMVGSFCVCYVPYAAFAMYMVNNRNHG
+                     LDLRLVTIPSFFSKSACIYNPIIYCFMNKQFQACIMKMVCGKAMTDESDTCSSQKTEV
+                     STVSSTQVGPN"
+     exon            357..525
+                     /gene="OPN1SW"
+                     /gene_synonym="BCP; BOP; CBT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            526..691
+                     /gene="OPN1SW"
+                     /gene_synonym="BCP; BOP; CBT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            692..931
+                     /gene="OPN1SW"
+                     /gene_synonym="BCP; BOP; CBT"
+                     /inference="alignment:Splign:2.1.0"
+     exon            932..1106
+                     /gene="OPN1SW"
+                     /gene_synonym="BCP; BOP; CBT"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      1085..1090
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="OPN1SW"
+                     /gene_synonym="BCP; BOP; CBT"
+                     /note="hexamer: ATTAAA"
+     polyA_site      1106
+                     /gene="OPN1SW"
+                     /gene_synonym="BCP; BOP; CBT"
+                     /note="major polyA site"
+ORIGIN      
+        1 atccatgaga aaaatgtcgg aggaagagtt ttatctgttc aaaaatatct cttcagtggg
+       61 gccgtgggat gggcctcagt accacattgc ccctgtctgg gccttctacc tccaggcagc
+      121 tttcatgggc actgtcttcc ttatagggtt cccactcaat gccatggtgc tggtggccac
+      181 actgcgctac aaaaagttgc ggcagcccct caactacatt ctggtcaacg tgtccttcgg
+      241 aggcttcctc ctctgcatct tctctgtctt ccctgtcttc gtcgccagct gtaacggata
+      301 cttcgtcttc ggtcgccatg tttgtgcttt ggagggcttc ctgggcactg tagcaggtct
+      361 ggttacagga tggtcactgg ccttcctggc ctttgagcgc tacattgtca tctgtaagcc
+      421 cttcggcaac ttccgcttca gctccaagca tgcactgacg gtggtcctgg ctacctggac
+      481 cattggtatt ggcgtctcca tcccaccctt ctttggctgg agccggttca tccctgaggg
+      541 cctgcagtgt tcctgtggcc ctgactggta caccgtgggc accaaatacc gcagcgagtc
+      601 ctatacgtgg ttcctcttca tcttctgctt cattgtgcct ctctccctca tctgcttctc
+      661 ctacactcag ctgctgaggg ccctgaaagc tgttgcagct cagcagcagg agtcagctac
+      721 gacccagaag gctgaacggg aggtgagccg catggtggtt gtgatggtag gatccttctg
+      781 tgtctgctac gtgccctacg cggccttcgc catgtacatg gtcaacaacc gtaaccatgg
+      841 gctggactta cggcttgtca ccattccttc attcttctcc aagagtgctt gcatctacaa
+      901 tcccatcatc tactgcttca tgaataagca gttccaagct tgcatcatga agatggtgtg
+      961 tgggaaggcc atgacagatg aatccgacac atgcagctcc cagaaaacag aagtttctac
+     1021 tgtctcgtct acccaagttg gccccaactg aggacccaat attggcctgt ttgcaacagc
+     1081 tagaattaaa ttttactttt aagtaa
+//
+
