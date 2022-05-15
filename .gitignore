@@ -1,1 +1,4 @@
 .env
+.DS_Store
+blast/data/*
+!blast/data/download_swissprot.sh

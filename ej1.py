@@ -42,6 +42,8 @@ if __name__ == '__main__':
 
     for gb_record in SeqIO.parse(open(gb_file,'r'), 'genbank') :
         proteins = get_longest_protein_by_orf(gb_record)
+        for orf,protein in proteins.items():
+            print(f"{orf}: {len(protein)*3/len(gb_record.seq) * 100}% of gen used for protein")
         selected_orf = probable_orf(proteins)
         selected_protein = proteins[selected_orf]
         record = SeqRecord(selected_protein, description=f'Protein translated from {gb_record.id} using ORF {selected_orf}.')
