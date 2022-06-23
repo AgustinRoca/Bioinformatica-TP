@@ -1,5 +1,6 @@
 from Bio import SeqIO
 from Bio.SeqRecord import SeqRecord
+import sys
 
 def probable_orf(proteins: dict):
     '''Returns the most probable ORF. This supposes the longest protein is the most probable one'''
@@ -37,8 +38,10 @@ def get_longest_protein_by_orf(record: SeqRecord) -> dict:
 
 # TODO: Be able to change gb_file path and output by command line
 if __name__ == '__main__':
-    gb_file = 'sequences/NM_001385125.gb'
-    output_path = 'sequences/results/protein.fasta'
+    # gb_file = 'sequences/NM_001385125.gb'
+    # output_path = 'sequences/results/protein.fasta's
+    gb_file = sys.argv[1]
+    output_path = sys.argv[2]
 
     for gb_record in SeqIO.parse(open(gb_file,'r'), 'genbank') :
         proteins = get_longest_protein_by_orf(gb_record)
