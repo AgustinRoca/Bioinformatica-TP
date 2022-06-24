@@ -44,7 +44,7 @@ python ej1.py [-i GENBANK_FILE] [-o FASTA_FILE]
 
 ### Exercise 3
 ```
-python ej3.py [-i FASTA_FILE] [-d FASTA_DIR] [-o MSA_FILE]
+python ej3.py [-i FASTA_FILE] [-o MSA_FILE]
 ```
 
 ### Exercise 4
