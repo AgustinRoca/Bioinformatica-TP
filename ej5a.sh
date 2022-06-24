@@ -1,0 +1,1 @@
+getorf -sequence sequences/NM_001385125.gb -outseq sequences/results/emboss.fasta

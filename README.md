@@ -4,6 +4,7 @@ Scripts para resolver ejercicios del TP de Introducción a la Bioinformática (I
 ## Install
 ### Prerequisites
 - You need Python 3
+- You need EMBOSS in your computer
 - To create a python virtual environment in your computer you need to have `virtualenv`.
 
 ### Creating virtual environment
