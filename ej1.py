@@ -1,6 +1,8 @@
+import string
 from Bio import SeqIO
 from Bio.SeqRecord import SeqRecord
-import sys
+import argparse
+
 
 def probable_orf(proteins: dict):
     '''Returns the most probable ORF. This supposes the longest protein is the most probable one'''
@@ -36,12 +38,14 @@ def get_longest_protein_by_orf(record: SeqRecord) -> dict:
                     longest_protein = len(protein)
     return proteins
 
-# TODO: Be able to change gb_file path and output by command line
 if __name__ == '__main__':
-    # gb_file = 'sequences/NM_001385125.gb'
-    # output_path = 'sequences/results/protein.fasta's
-    gb_file = sys.argv[1]
-    output_path = sys.argv[2]
+    parser = argparse.ArgumentParser(description='Ejercicio 1. Nucleotide GenBank -> Protein FASTA')
+    parser.add_argument('-i', metavar='GENBANK_FILE', help='Input GenBank file (default = sequences/NM_001385125.gb)', default='sequences/NM_001385125.gb')
+    parser.add_argument('-o', metavar='FASTA_FILE', help='Output FASTA file (default = sequences/results/protein.fasta)', default='sequences/results/protein.fasta')
+    args = parser.parse_args()
+
+    gb_file = args.i
+    output_path = args.o
 
     for gb_record in SeqIO.parse(open(gb_file,'r'), 'genbank') :
         proteins = get_longest_protein_by_orf(gb_record)
@@ -51,3 +55,5 @@ if __name__ == '__main__':
         selected_protein = proteins[selected_orf]
         record = SeqRecord(selected_protein, description=f'Protein translated from {gb_record.id} using ORF {selected_orf}.')
         SeqIO.write(record, output_path, 'fasta')
+
+
