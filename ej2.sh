@@ -20,7 +20,6 @@ while getopts ":hi:o::r" flag
 do
     case "${flag}" in
         h) # display Help
-            echo "Hola"
             Help
             exit;;
         i) input=${OPTARG};;
@@ -35,6 +34,11 @@ then
     echo "Running remote BLAST"
     ./blast/bin/blastp -db swissprot -query $input -out $output -outfmt 5 -remote
 else
-    echo "Running local BLAST"
+    cd blast/data
+    echo "Checking updates on swissprot..."
+    ../bin/update_blastdb.pl --passive --decompress swissprot
+    cd ../..
+    echo "Running local BLAST..."
     ./blast/bin/blastp -db blast/data/swissprot -query $input -out $output -outfmt 5
+    echo "Done"
 fi
