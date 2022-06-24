@@ -22,23 +22,31 @@ To run the project you need to start the virtual environment. You can do this wi
 source openVenv.sh
 ```
 
+### Help
+Every single of the following exercise have a `-h` option that prints a help tooltip
+
 ### Exercise 1
 ```
-python ej1.py
+python ej1.py [-i GENBANK_FILE] [-o FASTA_FILE] 
 ```
 
 ### Exercise 2
 #### Local Blast
 ```
-./ej2_local.sh
+./ej2.sh [-i FASTA_FILE] [-o OUTPUT_BLAST_FILE] [-s]
 ```
 
 #### Remote Blast
 ```
-python ej2_remote.py
+./ej2.sh [-i FASTA_FILE] [-o OUTPUT_BLAST_FILE] [-r]
 ```
 
 ### Exercise 3
 ```
-python ej3.py
+python ej3.py [-i FASTA_FILE] [-d FASTA_DIR] [-o MSA_FILE]
+```
+
+### Exercise 4
+```
+python ej4.py [-i FASTA_FILE] -p PATTERN [-ob OUTPUT_BLAST_FILE] [-od OUTPUT_FASTA_DIRECTORY] [-N MAX_RESULTS]
 ```
