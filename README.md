@@ -23,7 +23,7 @@ source openVenv.sh
 ```
 
 ### Help
-Every single of the following exercise have a `-h` option that prints a help tooltip
+Every single of the following exercises have a `-h` option that prints a help tooltip
 
 ### Exercise 1
 ```
