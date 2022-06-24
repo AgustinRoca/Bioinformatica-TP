@@ -11,12 +11,15 @@ parser.add_argument('-i', metavar='FASTA_FILE', help='Input BLAST XML file (defa
 parser.add_argument('-p', metavar='PATTERN', help='PATTERN', required=True)
 parser.add_argument('-ob', metavar='OUTPUT_BLAST_FILE', help='Output Filtered BLAST File (XML) (default = sequences/results/blast_filter.xml)', default='sequences/results/blast_filter.xml')
 parser.add_argument('-od', metavar='OUTPUT_FASTA_DIRECTORY', help='Output FASTAs Directory (default = sequences/results/ej4_fastas)', default='sequences/results/ej4_fastas')
+parser.add_argument('-N', metavar='MAX_RESULTS', type=int, help='Maximum results to return (default = all)')
+
 args = parser.parse_args()
 
 blast_file = args.i
 pattern = args.p
-output_blast = args.od
-output_dir = args.ob
+output_blast = args.ob
+output_dir = args.od
+max_results = args.N
 
 xml_tree = ET.parse(blast_file)
 xml_root = xml_tree.getroot()
@@ -32,6 +35,9 @@ for protein in proteins:
             data.append(hit)
             ids.append(hit_description.split(' ')[0])
 
+if max_results is not None:
+    data = data[:max_results]
+    ids = ids[:max_results]
 
 with open(output_blast, 'w') as save_file: 
     save_file.write('<Hits>\n')
