@@ -7,7 +7,7 @@ from Bio import Entrez
 Entrez.email = 'A.N.Other@example.com'
 
 parser = argparse.ArgumentParser(description='Ejercicio 4. BLAST + Pattern -> FASTAs')
-parser.add_argument('-i', metavar='FASTA_FILE', help='Input BLAST XML file (default = sequences/results/blast.out)', default='sequences/results/blast.out')
+parser.add_argument('-i', metavar='BLAST_FILE', help='Input BLAST XML file (default = sequences/results/blast.out)', default='sequences/results/blast.out')
 parser.add_argument('-p', metavar='PATTERN', help='PATTERN', required=True)
 parser.add_argument('-ob', metavar='OUTPUT_BLAST_FILE', help='Output Filtered BLAST File (XML) (default = sequences/results/blast_filter.xml)', default='sequences/results/blast_filter.xml')
 parser.add_argument('-od', metavar='OUTPUT_FASTA_DIRECTORY', help='Output FASTAs Directory (default = sequences/results/ej4_fastas)', default='sequences/results/ej4_fastas')
@@ -33,7 +33,8 @@ for protein in proteins:
         hit_description = hit.find('Hit_def').text
         if filter_str in hit_description.lower():
             data.append(hit)
-            ids.append(hit_description.split(' ')[0])
+            hit_accession = hit.find('Hit_accession').text
+            ids.append(hit_accession)
 
 if max_results is not None:
     data = data[:max_results]

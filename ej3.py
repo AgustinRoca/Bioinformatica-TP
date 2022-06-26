@@ -5,8 +5,8 @@ from Bio import SeqIO
 import argparse
 import os
 
-parser = argparse.ArgumentParser(description='Ejercicio 3. Protein FASTA + FASTAs -> MultiSequence Alignment')
-parser.add_argument('-i', metavar='FASTA_FILE', help='Input FASTA file (default = sequences/msa_input.fasta)', default='sequences/msa_input.fasta')
+parser = argparse.ArgumentParser(description='Ejercicio 3. Proteins FASTA -> MultiSequence Alignment')
+parser.add_argument('-i', metavar='FASTA_FILE', help='Input FASTA file (default = sequences/fasta/msa_input.fasta)', default='sequences/fasta/msa_input.fasta')
 parser.add_argument('-o', metavar='MSA_FILE', help='Output MultiSequence Alignment file (TXT) (default = sequences/results/msa_results.txt)', default='sequences/results/msa_results.txt')
 args = parser.parse_args()
 

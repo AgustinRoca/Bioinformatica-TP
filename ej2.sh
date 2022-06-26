@@ -19,7 +19,7 @@ input="sequences/results/protein.fasta"
 output="sequences/results/blast.out"
 remote=false
 update=true
-while getopts ":hi:o::r:s" flag
+while getopts ":h :s :r i: o:" flag
 do
     case "${flag}" in
         h)
@@ -32,7 +32,6 @@ do
         
     esac
 done
-
 
 if $remote
 then

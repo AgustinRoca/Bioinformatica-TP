@@ -40,7 +40,7 @@ def get_longest_protein_by_orf(record: SeqRecord) -> dict:
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Ejercicio 1. Nucleotide GenBank -> Protein FASTA')
-    parser.add_argument('-i', metavar='GENBANK_FILE', help='Input GenBank file (default = sequences/NM_001385125.gb)', default='sequences/NM_001385125.gb')
+    parser.add_argument('-i', metavar='GENBANK_FILE', help='Input GenBank file (default = sequences/genbank/NM_001385125.gb)', default='sequences/genbank/NM_001385125.gb')
     parser.add_argument('-o', metavar='FASTA_FILE', help='Output FASTA file (default = sequences/results/protein.fasta)', default='sequences/results/protein.fasta')
     args = parser.parse_args()
 

@@ -14,9 +14,6 @@ You may need to add execution permissions to `initVenv.sh`. Then you run
 ```
 This will build the virtual environment with every dependency needed for this project
 
-## Download swissprot
-To download swissprot db needed for exercise 2, you need to run `download_swissprot.sh` in the `blast/data` file
-
 ## Run
 To run the project you need to start the virtual environment. You can do this with the following command
 ```
@@ -50,4 +47,15 @@ python ej3.py [-i FASTA_FILE] [-o MSA_FILE]
 ### Exercise 4
 ```
 python ej4.py [-i FASTA_FILE] -p PATTERN [-ob OUTPUT_BLAST_FILE] [-od OUTPUT_FASTA_DIRECTORY] [-N MAX_RESULTS]
+```
+
+### Exercise 5
+#### EMBOSS test
+```
+ej5a.sh [-i GENBANK_FILE] [-o OUTPUT_FASTA_FILE]
+```
+
+#### Motifs
+```
+./ej5.sh [-i FASTA_FILE] [-o OUTPUT_MOTIFS_FILE] [-s]
 ```
