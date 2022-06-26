@@ -3,7 +3,7 @@
 Help()
 {
    # Display Help
-   echo "usage: ej2.sh [-h] [-i FASTA_FILE] [-o OUTPUT_BLAST_FILE] [-r] [-s]"
+   echo "usage: src/ej2.sh [-h] [-i FASTA_FILE] [-o OUTPUT_BLAST_FILE] [-r] [-s]"
    echo
    echo "Ejercicio 2. FASTA -> BLAST."
    echo

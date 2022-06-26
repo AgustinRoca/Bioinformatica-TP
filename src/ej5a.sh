@@ -3,7 +3,7 @@
 Help()
 {
    # Display Help
-   echo "usage: ej5a.sh [-h] [-i GENBANK_FILE] [-o OUTPUT_FASTA_FILE]"
+   echo "usage: src/ej5a.sh [-h] [-i GENBANK_FILE] [-o OUTPUT_FASTA_FILE]"
    echo
    echo "Ejercicio 5a. Nucleotide GenBank -> Protein FASTA."
    echo

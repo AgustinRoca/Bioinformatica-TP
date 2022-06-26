@@ -25,37 +25,37 @@ Every single of the following exercises have a `-h` option that prints a help to
 
 ### Exercise 1
 ```
-python ej1.py [-i GENBANK_FILE] [-o FASTA_FILE] 
+python src/ej1.py [-i GENBANK_FILE] [-o FASTA_FILE] 
 ```
 
 ### Exercise 2
 #### Local Blast
 ```
-./ej2.sh [-i FASTA_FILE] [-o OUTPUT_BLAST_FILE] [-s]
+./src/ej2.sh [-i FASTA_FILE] [-o OUTPUT_BLAST_FILE] [-s]
 ```
 
 #### Remote Blast
 ```
-./ej2.sh [-i FASTA_FILE] [-o OUTPUT_BLAST_FILE] [-r]
+./src/ej2.sh [-i FASTA_FILE] [-o OUTPUT_BLAST_FILE] [-r]
 ```
 
 ### Exercise 3
 ```
-python ej3.py [-i FASTA_FILE] [-o MSA_FILE]
+python src/ej3.py [-i FASTA_FILE] [-o MSA_FILE]
 ```
 
 ### Exercise 4
 ```
-python ej4.py [-i FASTA_FILE] -p PATTERN [-ob OUTPUT_BLAST_FILE] [-od OUTPUT_FASTA_DIRECTORY] [-N MAX_RESULTS]
+python src/ej4.py [-i FASTA_FILE] -p PATTERN [-ob OUTPUT_BLAST_FILE] [-od OUTPUT_FASTA_DIRECTORY] [-N MAX_RESULTS]
 ```
 
 ### Exercise 5
 #### EMBOSS test
 ```
-ej5a.sh [-i GENBANK_FILE] [-o OUTPUT_FASTA_FILE]
+src/ej5a.sh [-i GENBANK_FILE] [-o OUTPUT_FASTA_FILE]
 ```
 
 #### Motifs
 ```
-./ej5.sh [-i FASTA_FILE] [-o OUTPUT_MOTIFS_FILE] [-s]
+./src/ej5.sh [-i FASTA_FILE] [-o OUTPUT_MOTIFS_FILE] [-s]
 ```

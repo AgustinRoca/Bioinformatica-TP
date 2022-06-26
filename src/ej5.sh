@@ -3,7 +3,7 @@
 Help()
 {
    # Display Help
-   echo "usage: ej5.sh [-h] [-i FASTA_FILE] [-o OUTPUT_MOTIFS_FILE] [-s]"
+   echo "usage: src/ej5.sh [-h] [-i FASTA_FILE] [-o OUTPUT_MOTIFS_FILE] [-s]"
    echo
    echo "Ejercicio 5. FASTA -> PatmatMotifs."
    echo
