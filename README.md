@@ -20,6 +20,13 @@ To run the project you need to start the virtual environment. You can do this wi
 source openVenv.sh
 ```
 
+### Run all exercises together
+With `make` you can run all 5 exercises one after the other linking inputs and outputs as the exercises intended. 
+- `make all` to run all exercises, downloading PROSITE and local BLAST updating Swissprot. 
+- `make all remote` to run all exercises, downloading PROSITE and using remote BLAST
+- `make all no_update` to run all exercises, using local BLAST
+- `make all remote no_update` to run all exercises, using remote BLAST
+
 ### Help
 Every single of the following exercises have a `-h` option that prints a help tooltip
 
