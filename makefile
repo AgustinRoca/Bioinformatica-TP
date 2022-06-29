@@ -3,7 +3,8 @@ GEN_GB_FILE = sequences/genbank/NM_001385125.gb
 PROTEIN_FASTA_FILE = sequences/results/protein.fasta
 BLAST_FILE = sequences/results/blast.out
 FILTERED_BLAST_FILE = sequences/results/blast_filter.xml
-MSA_FILE = sequences/results/msa_results.txt
+MSA_INPUT_FILE = sequences/fasta/msa_input.fasta
+MSA_OUTPUT_FILE = sequences/results/msa_results.txt
 EJ4_FASTA_DIR = sequences/results/ej4_fastas
 PATTERN = "mus musculus"
 MOTIFS_FILE = sequences/results/motifs.patmatmotifs
@@ -66,7 +67,7 @@ ej2_local_no_update: src/ej2.sh $(PROTEIN_FASTA_FILE)
 
 ej3: src/ej3.py $(PROTEIN_FASTA_FILE)
 	@echo "Running ej3"
-	@$(PYTHON) src/ej3.py -i $(PROTEIN_FASTA_FILE) -o $(MSA_FILE)
+	@$(PYTHON) src/ej3.py -i $(MSA_INPUT_FILE) -o $(MSA_OUTPUT_FILE)
 
 ej4: src/ej4.py $(BLAST_FILE)
 	@echo "Running ej4"
