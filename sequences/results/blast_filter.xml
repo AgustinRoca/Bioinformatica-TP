@@ -1,0 +1,1751 @@
+<Hits>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>sp|P51491.1|</Hit_id>
+  <Hit_def>RecName: Full=Short-wave-sensitive opsin 1; Short=S opsin; AltName: Full=Blue cone photoreceptor pigment; AltName: Full=Blue-sensitive opsin; Short=BOP; AltName: Full=Short wavelength-sensitive cone opsin [Mus musculus]</Hit_def>
+  <Hit_accession>P51491</Hit_accession>
+  <Hit_len>346</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>626.706</Hsp_bit-score>
+      <Hsp_score>1615</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>348</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>346</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>295</Hsp_identity>
+      <Hsp_positive>321</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>343</Hsp_align-len>
+      <Hsp_qseq>EEEFYLFKNISSVGPWDGPQYHIAPVWAFYLQAAFMGTVFLIGFPLNAMVLVATLRYKKLRQPLNYILVNVSFGGFLLCIFSVFPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFGNFRFSSKHALTVVLATWTIGIGVSIPPFFGWSRFIPEGLQCSCGPDWYTVGTKYRSESYTWFLFIFCFIVPLSLICFSYTQLLRALKAVAAQQQESATTQKAEREVSRMVVVMVGSFCVCYVPYAAFAMYMVNNRNHGLDLRLVTIPSFFSKSACIYNPIIYCFMNKQFQACIMKMVCGKAMTDESDTCSSQKTEVSTVSSTQVGPN</Hsp_qseq>
+      <Hsp_hseq>EDDFYLFQNISSVGPWDGPQYHLAPVWAFRLQAAFMGFVFFVGTPLNAIVLVATLHYKKLRQPLNYILVNVSLGGFLFCIFSVFTVFIASCHGYFLFGRHVCALEAFLGSVAGLVTGWSLAFLAFERYVVICKPFGSIRFNSKHALMVVLATWIIGIGVSIPPFFGWSRFIPEGLQCSCGPDWYTVGTKYRSEYYTWFLFIFCFIIPLSLICFSYSQLLRTLRAVAAQQQESATTQKAEREVSHMVVVMVGSFCLCYVPYAALAMYMVNNRNHGLDLRLVTIPAFFSKSSCVYNPIIYCFMNKQFRACILEMVCRKPMADESDVSGSQKTEVSTVSSSKVGPH</Hsp_hseq>
+      <Hsp_midline>E++FYLF+NISSVGPWDGPQYH+APVWAF LQAAFMG VF +G PLNA+VLVATL YKKLRQPLNYILVNVS GGFL CIFSVF VF+ASC+GYF+FGRHVCALE FLG+VAGLVTGWSLAFLAFERY+VICKPFG+ RF+SKHAL VVLATW IGIGVSIPPFFGWSRFIPEGLQCSCGPDWYTVGTKYRSE YTWFLFIFCFI+PLSLICFSY+QLLR L+AVAAQQQESATTQKAEREVS MVVVMVGSFC+CYVPYAA AMYMVNNRNHGLDLRLVTIP+FFSKS+C+YNPIIYCFMNKQF+ACI++MVC K M DESD   SQKTEVSTVSS++VGP+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>sp|P15409.2|</Hit_id>
+  <Hit_def>RecName: Full=Rhodopsin [Mus musculus]</Hit_def>
+  <Hit_accession>P15409</Hit_accession>
+  <Hit_len>348</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>314.309</Hsp_bit-score>
+      <Hsp_score>804</Hsp_score>
+      <Hsp_evalue>8.93387e-105</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>346</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>155</Hsp_identity>
+      <Hsp_positive>231</Hsp_positive>
+      <Hsp_gaps>19</Hsp_gaps>
+      <Hsp_align-len>353</Hsp_align-len>
+      <Hsp_qseq>MRKMSEEEFYL-FKNISSV--GPWDGPQYHIAPVWAFYLQAAFMGTVFLIGFPLNAMVLVATLRYKKLRQPLNYILVNVS-------FGGFLLCIFSVFPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFGNFRFSSKHALTVVLATWTIGIGVSIPPFFGWSRFIPEGLQCSCGPDWYTVGTKYRSESYTWFLFIFCFIVPLSLICFSYTQLLRALKAVAAQQQESATTQKAEREVSRMVVVMVGSFCVCYVPYAAFAMYMVNNRNHGLDLRLVTIPSFFSKSACIYNPIIYCFMNKQFQACIM-KMVCGK-AMTDESDTCSSQKTEVSTVS</Hsp_qseq>
+      <Hsp_hseq>MNGTEGPNFYVPFSNVTGVVRSPFEQPQYYLAEPWQFSMLAAYMFLLIVLGFPINFLTLYVTVQHKKLRTPLNYILLNLAVADLFMVFGGFTTTLYT-------SLHGYFVFGPTGCNLEGFFATLGGEIALWSLVVLAIERYVVVCKPMSNFRFGENHAIMGVVFTWIMALACAAPPLVGWSRYIPEGMQCSCGIDYYTLKPEVNNESFVIYMFVVHFTIPMIVIFFCYGQLVFTVKEAAAQQQESATTQKAEKEVTRMVIIMVIFFLICWLPYASVAFYIFTHQGSNFGPIFMTLPAFFAKSSSIYNPVIYIMLNKQFRNCMLTTLCCGKNPLGDDDASATASKTETSQVA</Hsp_hseq>
+      <Hsp_midline>M       FY+ F N++ V   P++ PQY++A  W F + AA+M  + ++GFP+N + L  T+++KKLR PLNYIL+N++       FGGF   +++       S +GYFVFG   C LEGF  T+ G +  WSL  LA ERY+V+CKP  NFRF   HA+  V+ TW + +  + PP  GWSR+IPEG+QCSCG D+YT+  +  +ES+  ++F+  F +P+ +I F Y QL+  +K  AAQQQESATTQKAE+EV+RMV++MV  F +C++PYA+ A Y+  ++        +T+P+FF+KS+ IYNP+IY  +NKQF+ C++  + CGK  + D+  + ++ KTE S V+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>100</Hit_num>
+  <Hit_id>sp|O35599.1|</Hit_id>
+  <Hit_def>RecName: Full=Medium-wave-sensitive opsin 1; AltName: Full=Green cone photoreceptor pigment; AltName: Full=Green-sensitive opsin; Short=M opsin; AltName: Full=Medium wavelength-sensitive cone opsin [Mus musculus]</Hit_def>
+  <Hit_accession>O35599</Hit_accession>
+  <Hit_len>359</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>291.197</Hsp_bit-score>
+      <Hsp_score>744</Hsp_score>
+      <Hsp_evalue>1.20697e-95</Hsp_evalue>
+      <Hsp_query-from>16</Hsp_query-from>
+      <Hsp_query-to>336</Hsp_query-to>
+      <Hsp_hit-from>30</Hsp_hit-from>
+      <Hsp_hit-to>349</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>145</Hsp_identity>
+      <Hsp_positive>211</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>322</Hsp_align-len>
+      <Hsp_qseq>SSVGPWDGPQYHIAPVWAFYLQAAFMGTVFLIGFPLNAMVLVATLRYKKLRQPLNYILVNVSFGGFLLCIFSVFPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFGNFRFSSKHALTVVLATWTIGIGVSIPPFFGWSRFIPEGLQCSCGPDWYTVGTKYRS-ESYTWFLFIFCFIVPLSLICFSYTQLLRALKAVAAQQQESATTQKAEREVSRMVVVMVGSFCVCYVPYAAFAMYMVNNRNHGLDLRLVTIPSFFSKSACIYNPIIYCFMNKQFQACIMKMVCGKAMTDESDTCSSQKTE</Hsp_qseq>
+      <Hsp_hseq>STKGPFEGPNYHIAPRWVYHLTSTWMILVVVASVFTNGLVLAATMRFKKLRHPLNWILVNLAVADLAETIIASTISVVNQIYGYFVLGHPLCVIEGYIVSLCGITGLWSLAIISWERWLVVCKPFGNVRFDAKLATVGIVFSWVWAAIWTAPPIFGWSRYWPYGLKTSCGPDVFS-GTSYPGVQSYMMVLMVTCCIFPLSIIVLCYLQVWLAIRAVAKQQKESESTQKAEKEVTRMVVVMVFAYCLCWGPYTFFACFATAHPGYAFHPLVASLPSYFAKSATIYNPIIYVFMNRQFRNCILHLF-GKKVDDSSELSSTSKTE</Hsp_hseq>
+      <Hsp_midline>S+ GP++GP YHIAP W ++L + +M  V +     N +VL AT+R+KKLR PLN+ILVN++       I +     V    GYFV G  +C +EG++ ++ G+   WSLA +++ER++V+CKPFGN RF +K A   ++ +W      + PP FGWSR+ P GL+ SCGPD ++ GT Y   +SY   L + C I PLS+I   Y Q+  A++AVA QQ+ES +TQKAE+EV+RMVVVMV ++C+C+ PY  FA +   +  +     + ++PS+F+KSA IYNPIIY FMN+QF+ CI+ +  GK + D S+  S+ KTE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>165</Hit_num>
+  <Hit_id>sp|Q9QXZ9.1|</Hit_id>
+  <Hit_def>RecName: Full=Melanopsin; AltName: Full=Opsin-4 [Mus musculus]</Hit_def>
+  <Hit_accession>Q9QXZ9</Hit_accession>
+  <Hit_len>521</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>131.724</Hsp_bit-score>
+      <Hsp_score>330</Hsp_score>
+      <Hsp_evalue>4.76337e-33</Hsp_evalue>
+      <Hsp_query-from>30</Hsp_query-from>
+      <Hsp_query-to>342</Hsp_query-to>
+      <Hsp_hit-from>65</Hsp_hit-from>
+      <Hsp_hit-to>392</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>91</Hsp_identity>
+      <Hsp_positive>161</Hsp_positive>
+      <Hsp_gaps>19</Hsp_gaps>
+      <Hsp_align-len>330</Hsp_align-len>
+      <Hsp_qseq>PVWAFYLQAAFMGTVFLIGFPLNAMVLVATLRYKKLRQPLNYILVNVSFGGFLLCIFSVFPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFGNF-RFSSKHALTVVLATWTIGIGVSIPPFFGWSRFIPEGLQCSCGPDWYTVGTKYRSESYTWFLFIFCFIVPLSLICFSYTQLLRALKAVA----------AQQQESATTQKAEREVSRMVVVMVGSFCVCYVPYAAFAMYMVNNRNHGLDLRLVTIPSFFSKSACIYNPIIYCFMNKQFQACI------MKMVCGKAMTDESDTCSSQKTEVSTVSS</Hsp_qseq>
+      <Hsp_hseq>PDHAHYTLGTVILLVGLTGMLGNLTVIYTFCRNRGLRTPANMFIINLAVSDFLMSVTQAPVFFASSLYKKWLFGETGCEFYAFCGAVFGITSMITLTAIAMDRYLVITRPLATIGRGSKRRTALVLLGVWLYALAWSLPPFFGWSAYVPEGLLTSCSWDYMTFTPQVR--AYTMLLFCFVFFLPLLIIIFCYIFIFRAIRETGRACEGCGESPLRQRRQWQRLQSEWKMAKVALIVILLFVLSWAPYSTVALVAFAGYSHILTPYMSSVPAVIAKASAIHNPIIYAITHPKYRVAIAQHLPCLGVLLGVSGQRSHPSLSYRSTHRSTLSS</Hsp_hseq>
+      <Hsp_midline>P  A Y     +  V L G   N  V+    R + LR P N  ++N++   FL+ +      F +S    ++FG   C    F G V G+ +  +L  +A +RY+VI +P     R S +    V+L  W   +  S+PPFFGWS ++PEGL  SC  D+ T   + R  +YT  LF F F +PL +I F Y  + RA++              +Q+      ++E +++++ ++++  F + + PY+  A+      +H L   + ++P+  +K++ I+NPIIY   + +++  I      + ++ G +      + S + T  ST+SS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>172</Hit_num>
+  <Hit_id>sp|Q9WUK7.1|</Hit_id>
+  <Hit_def>RecName: Full=Opsin-3; AltName: Full=Encephalopsin; AltName: Full=Panopsin [Mus musculus]</Hit_def>
+  <Hit_accession>Q9WUK7</Hit_accession>
+  <Hit_len>400</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>123.635</Hsp_bit-score>
+      <Hsp_score>309</Hsp_score>
+      <Hsp_evalue>7.22516e-31</Hsp_evalue>
+      <Hsp_query-from>61</Hsp_query-from>
+      <Hsp_query-to>311</Hsp_query-to>
+      <Hsp_hit-from>66</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>78</Hsp_identity>
+      <Hsp_positive>133</Hsp_positive>
+      <Hsp_gaps>11</Hsp_gaps>
+      <Hsp_align-len>256</Hsp_align-len>
+      <Hsp_qseq>RYKKLRQPLNYILVNVSFGGFLLCIFSVFPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYI-VICKPFGNFRFSSKHALTVVLATWTIGIGVSIPPFFGWSRFIPEGLQCSCGPDWYTVGTKYRSESYTWFLFIFCFIVPLSLICFSYTQLL---RALKAVAAQQQ-ESATTQKAEREVSRMVVVMVGSFCVCYVPYAAFAMYMVNNRNHGLDLRLVTIPSFFSKSACIYNPIIYCFMNKQFQ</Hsp_qseq>
+      <Hsp_hseq>KFPRLRTPTHLFLVNLSLGDLLVSLFGVTFTFASCLRNGWVWDAVGCAWDGFSGSLFGFVSITTLTVLAYERYIRVVHARVINFSWAWR-AITYI---WLYSLAWAGAPLLGWNRYILDIHGLGCTVDWRSKDAN--DSSFVLFLFLGCLVVPVGIIAHCYGHILYSVRMLRCVEDLQTIQVIKMLRYEKKVAKMCFLMAFVFLTCWMPYIVTRFLVVNGYGHLVTPTVSIVSYLFAKSSTVYNPVIYIFMNRKFR</Hsp_hseq>
+      <Hsp_midline>++ +LR P +  LVN+S G  L+ +F V   F +     +V+    CA +GF G++ G V+  +L  LA+ERYI V+     NF ++ + A+T +   W   +  +  P  GW+R+I +     C  DW +        S+  FLF+ C +VP+ +I   Y  +L   R L+ V   Q  +     + E++V++M  +M   F  C++PY      +VN   H +   +  +   F+KS+ +YNP+IY FMN++F+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>183</Hit_num>
+  <Hit_id>sp|O35214.1|</Hit_id>
+  <Hit_def>RecName: Full=Visual pigment-like receptor peropsin [Mus musculus]</Hit_def>
+  <Hit_accession>O35214</Hit_accession>
+  <Hit_len>337</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>114.775</Hsp_bit-score>
+      <Hsp_score>286</Hsp_score>
+      <Hsp_evalue>5.30983e-28</Hsp_evalue>
+      <Hsp_query-from>52</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>43</Hsp_hit-from>
+      <Hsp_hit-to>308</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>71</Hsp_identity>
+      <Hsp_positive>136</Hsp_positive>
+      <Hsp_gaps>6</Hsp_gaps>
+      <Hsp_align-len>269</Hsp_align-len>
+      <Hsp_qseq>NAMVLVATLRYKKLRQPLNYILVNVSFGGFLLCIFSVFPVFVAS-CNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFGNFRFSSKHALTVVLATWTIGIGVSIPPFFGWSRFIPEGLQCSCGPDWYTVGTKYRSESYTWFLFIFCFIVPLSLICFSYTQLLRALKAVAAQQQESATTQK--AEREVSRMVVVMVGSFCVCYVPYAAFAMYMVNNRNHGLDLRLVTIPSFFSKSACIYNPIIYCFMNKQFQACIMKM</Hsp_qseq>
+      <Hsp_hseq>NVVVLGIFIKYKELRTPTNAVIINLAFTDIGVSSIG-YPMSAASDLHGSWKFGHAGCQIYAGLNIFFGMVSIGLLTVVAMDRYLTISCPDVGRRMTTNTYLSMILGAWINGLFWALMPIIGWASYAPDPTGATCTINWRNNDTSF--VSYTMMVIVVNFIVPLTVMFYCYYHVSRSLRLYAASDCTAHLHRDWADQADVTKMSVIMILMFLLAWSPYSIVCLWACFGNPKKIPPSMAIIAPLFAKSSTFYNPCIYVAAHKKFRKAMLAM</Hsp_hseq>
+      <Hsp_midline>N +VL   ++YK+LR P N +++N++F    +     +P+  AS  +G + FG   C +   L    G+V+   L  +A +RY+ I  P    R ++   L+++L  W  G+  ++ P  GW+ + P+    +C  +W    T +   SYT  + +  FIVPL+++ + Y  + R+L+  AA    +   +    + +V++M V+M+  F + + PY+   ++        +   +  I   F+KS+  YNP IY   +K+F+  ++ M</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>196</Hit_num>
+  <Hit_id>sp|Q04573.1|</Hit_id>
+  <Hit_def>RecName: Full=Neuropeptide Y receptor type 1; Short=NPY1-R [Mus musculus]</Hit_def>
+  <Hit_accession>Q04573</Hit_accession>
+  <Hit_len>382</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.531</Hsp_bit-score>
+      <Hsp_score>262</Hsp_score>
+      <Hsp_evalue>2.08364e-24</Hsp_evalue>
+      <Hsp_query-from>7</Hsp_query-from>
+      <Hsp_query-to>347</Hsp_query-to>
+      <Hsp_hit-from>10</Hsp_hit-from>
+      <Hsp_hit-to>368</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>94</Hsp_identity>
+      <Hsp_positive>165</Hsp_positive>
+      <Hsp_gaps>30</Hsp_gaps>
+      <Hsp_align-len>365</Hsp_align-len>
+      <Hsp_qseq>EEFYLFKNISSVGP---WDGPQYHIAPVWAFYLQAAFMGTVFLIGFPLNAMVLVATLRYKKLRQPLNYILVNVSFGGFLLCIFSVFPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFGNFRFSSKHALTVVLATWTIGIGVSIPPFFGWSRFIPEGLQ---CSCGPDWYTVGTKYRSE----SYTWFLFIFCFIVPLSLICFSYTQL---LRALKAVAAQQQESATTQKAEREVSRMVVVMVGSFCVCYVPYAAFAMYMVNNR------NHGLDLRLVTIPSFFSKSACIYNPIIYCFMNKQFQACIM---KMVCGKAMTDESDTC--SSQKTEVSTVSSTQVGP</Hsp_qseq>
+      <Hsp_hseq>ENHSIHYNASENSPLLAFENDDCHLPLAVIFTLALAY-GAVIILGVSGNLALIIIILKQKEMRNVTNILIVNLSFSDLLVAVMCLPFTFVYTLMDHWVFGETMCKLNPFVQCVSITVSIFSLVLIAVERHQLIINPRG-WRPNNRHAYIGITVIWVLAVASSL-PFVIYQILTDEPFQNVSLAAFKDKYVCFDKFPSDSHRLSYTTLLLVLQYFGPLCFIFICYFKIYIRLKRRNNMMDKIRDSKYRSSETKRINIMLLSIVVAFAVCWLPLTIFNTVFDWNHQIIATCNHNLLFLLCHLTAMI--STCV-NPIFYGFLNKNFQRDLQFFFNFCDFRSRDDDYETIAMSTMHTDVSKTSLKQASP</Hsp_hseq>
+      <Hsp_midline>E   +  N S   P   ++    H+     F L  A+ G V ++G   N  +++  L+ K++R   N ++VN+SF   L+ +  +   FV +   ++VFG  +C L  F+  V+  V+ +SL  +A ER+ +I  P G +R +++HA   +   W + +  S+ PF  +     E  Q    +   D Y    K+ S+    SYT  L +  +  PL  I   Y ++   L+    +  + ++S       + ++ M++ +V +F VC++P   F      N       NH L   L  + +    S C+ NPI Y F+NK FQ  +         ++  D+ +T   S+  T+VS  S  Q  P</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>211</Hit_num>
+  <Hit_id>sp|Q6VZZ7.1|</Hit_id>
+  <Hit_def>RecName: Full=Opsin-5; AltName: Full=G-protein coupled receptor 136; AltName: Full=G-protein coupled receptor PGR12; AltName: Full=Neuropsin [Mus musculus]</Hit_def>
+  <Hit_accession>Q6VZZ7</Hit_accession>
+  <Hit_len>377</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>98.2117</Hsp_bit-score>
+      <Hsp_score>243</Hsp_score>
+      <Hsp_evalue>7.57331e-22</Hsp_evalue>
+      <Hsp_query-from>52</Hsp_query-from>
+      <Hsp_query-to>313</Hsp_query-to>
+      <Hsp_hit-from>51</Hsp_hit-from>
+      <Hsp_hit-to>316</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>63</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>6</Hsp_gaps>
+      <Hsp_align-len>267</Hsp_align-len>
+      <Hsp_qseq>NAMVLVATLRYKKLRQPLNYILVNVSFGGFLLCIFSVFPVFVASCNGY-FVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFGNFRFSSKHALTVVLATWTIGIGVSIPPFFGWSRFIPEGLQCSCGPDWYTVGTKYRSESYTWFLFIFCFIVPLSLICFSYTQLLRALKA----VAAQQQESATTQKAEREVSRMVVVMVGSFCVCYVPYAAFAMYMVNNRNHGLDLRLVTIPSFFSKSACIYNPIIYCFMNKQFQAC</Hsp_qseq>
+      <Hsp_hseq>NGYVLYMSSRRKKKLRPAEIMTINLAVCDLGISVVGK-PFTIISCFCHRWVFGWFGCRWYGWAGFFFGCGSLITMTAVSLDRYLKICYLSYGVWLKRKHAYICLAVIWAYASFWTTMPLVGLGDYAPEPFGTSCTLDWWLAQASGGGQVFILSILFFCLLLPTAVIVFSYAKIIAKVKSSSKEVAHFDSRIHSSHVLEVKLTKVAMLICAGFLIAWIPYAVVSVWSAFGRPDSIPIQLSVVPTLLAKSAAMYNPIIYQVIDYRFACC</Hsp_hseq>
+      <Hsp_midline>N  VL  + R KK  +P   + +N++     + +    P  + SC  + +VFG   C   G+ G   G  +  ++  ++ +RY+ IC          KHA   +   W      +  P  G   + PE    SC  DW+        + +   +  FC ++P ++I FSY +++  +K+    VA       ++   E +++++ +++   F + ++PYA  +++    R   + ++L  +P+  +KSA +YNPIIY  ++ +F  C</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>227</Hit_num>
+  <Hit_id>sp|P33534.1|</Hit_id>
+  <Hit_def>RecName: Full=Kappa-type opioid receptor; Short=K-OR-1; Short=KOR-1; AltName: Full=MSL-1 [Mus musculus]</Hit_def>
+  <Hit_accession>P33534</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>84.3445</Hsp_bit-score>
+      <Hsp_score>207</Hsp_score>
+      <Hsp_evalue>6.31973e-17</Hsp_evalue>
+      <Hsp_query-from>17</Hsp_query-from>
+      <Hsp_query-to>313</Hsp_query-to>
+      <Hsp_hit-from>41</Hsp_hit-from>
+      <Hsp_hit-to>340</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>70</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>25</Hsp_gaps>
+      <Hsp_align-len>311</Hsp_align-len>
+      <Hsp_qseq>SVGPWDG--PQYHIAPVWAFYLQAAFMGTVFLIGFPLNAMVLVATLRYKKLRQPLNYILVNVSFGGFLLCIFSVFPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFGNFRFSSK-HALTVVLATWTIGIGVSIPPFFGWSRFIPEGLQCSCGPDWYTVGTKYRSESYTWF-------LFIFCFIVPLSLICFSYTQLLRALKAVAAQQQESATTQKAEREVSRMVVVMVGSFCVCYVPYAAF----AMYMVNNRNHGLDLRLVTIPSFFSKSACIYNPIIYCFMNKQFQAC</Hsp_qseq>
+      <Hsp_hseq>SVGSEDQQLESAHISPAIPVIITAVY-SVVFVVGLVGNSLVMFVIIRYTKMKTATNIYIFNLALADALVTTTMPFQSAVYLMNSW-PFGDVLCKIVISIDYYNMFTSIFTLTMMSVDRYIAVCHPVKALDFRTPLKAKIINICIWLLASSV------GISAIVLGGTKVREDVDVIECSLQFPDDEYSWWDLFMKICVFVFAFVIPVLIIIVCYTLMILRLKSVRLLSG-SREKDRNLRRITKLVLVVVAVFIICWTPIHIFILVEALGSTSHSTAALSSYYFCIALGYTNSS--LNPVLYAFLDENFKRC</Hsp_hseq>
+      <Hsp_midline>SVG  D      HI+P     + A +   VF++G   N++V+   +RY K++   N  + N++    L+     F   V   N +  FG  +C +   +       + ++L  ++ +RYI +C P     F +   A  + +  W +   V      G S  +  G +     D      ++  + Y+W+       +F+F F++P+ +I   YT ++  LK+V      S    +  R ++++V+V+V  F +C+ P   F    A+   ++    L      I   ++ S+   NP++Y F+++ F+ C</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>229</Hit_num>
+  <Hit_id>sp|P30549.1|</Hit_id>
+  <Hit_def>RecName: Full=Substance-K receptor; Short=SKR; AltName: Full=NK-2 receptor; Short=NK-2R; AltName: Full=Neurokinin A receptor; AltName: Full=Tachykinin receptor 2 [Mus musculus]</Hit_def>
+  <Hit_accession>P30549</Hit_accession>
+  <Hit_len>384</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>83.9593</Hsp_bit-score>
+      <Hsp_score>206</Hsp_score>
+      <Hsp_evalue>8.88886e-17</Hsp_evalue>
+      <Hsp_query-from>30</Hsp_query-from>
+      <Hsp_query-to>312</Hsp_query-to>
+      <Hsp_hit-from>29</Hsp_hit-from>
+      <Hsp_hit-to>316</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>66</Hsp_identity>
+      <Hsp_positive>136</Hsp_positive>
+      <Hsp_gaps>13</Hsp_gaps>
+      <Hsp_align-len>292</Hsp_align-len>
+      <Hsp_qseq>PVWAFYLQAAFMGTVFLIGFPLNAMVLVATLRYKKLRQPLNYILVNVSFGGFLLCIFSVFPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFGNFRFSSKHALTVVLATWTIGIGVSIPPFFGWSRFIPEGLQCSCGPDWYTVGTKYRSESYTWFLFIFCFIVPLSLICFSYTQLLRAL--KAVAAQQQESATTQ--KAEREVSRMVVVMVGSFCVCYVPYAAFAMYMVNNRNHGLDLR----LVTIPSFF-SKSACIYNPIIYCFMNKQFQA</Hsp_qseq>
+      <Hsp_hseq>PGWQLALWATAYLALVLVAVTGNATVIWIILAHERMRTVTNYFIINLALADLCMAAFNATFNFIYASHNIWYFGSTFCYFQNLFPVTAMFVSIYSMTAIAADRYMAIVHPFQP-RLSAPSTKAVIAVIWLVALALASPQCFYSTITVDQG-ATKCVVAWPNDNGGKMLLLYHLVVFVLIYFLPLVVMFAAYSVIGLTLWKRAVPRHQAHGANLRHLQAKKKFVKAMVLVVVTFAICWLPYHLY--FILGTFQEDIYYRKFIQQVYLALFWLAMSSTMYNPIIYCCLNHRFRS</Hsp_hseq>
+      <Hsp_midline>P W   L A     + L+    NA V+   L ++++R   NY ++N++     +  F+    F+ + +  + FG   C  +      A  V+ +S+  +A +RY+ I  PF   R S+     V+   W + + ++ P  F  +  + +G    C   W           Y   +F+  + +PL ++  +Y+ +   L  +AV   Q   A  +  +A+++  + +V++V +F +C++PY  +  +++      +  R     V +  F+ + S+ +YNPIIYC +N +F++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>237</Hit_num>
+  <Hit_id>sp|O88854.2|</Hit_id>
+  <Hit_def>RecName: Full=Galanin receptor type 2; Short=GAL2-R; Short=GALR-2 [Mus musculus]</Hit_def>
+  <Hit_accession>O88854</Hit_accession>
+  <Hit_len>371</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>81.2629</Hsp_bit-score>
+      <Hsp_score>199</Hsp_score>
+      <Hsp_evalue>5.91558e-16</Hsp_evalue>
+      <Hsp_query-from>40</Hsp_query-from>
+      <Hsp_query-to>320</Hsp_query-to>
+      <Hsp_hit-from>30</Hsp_hit-from>
+      <Hsp_hit-to>308</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>68</Hsp_identity>
+      <Hsp_positive>133</Hsp_positive>
+      <Hsp_gaps>20</Hsp_gaps>
+      <Hsp_align-len>290</Hsp_align-len>
+      <Hsp_qseq>FMGTVFLIGFPLNAMVLVATLRYKKLRQPLNYILVNVSFGG--FLLCIFSVFPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFGNFRFSS-KHALTVVLATWTIGIGVSIPPFFGWSRFIPEGLQCSCGPDWYTVGTKYRSESYTWFLFIFCFIVPLSLICFSYTQLLRALKAVAAQQQESATTQKAEREVSRMVVVMVGSFCVCYVPYAA------FAMYMVNNRNHGLDLRLVTIPSFFSKSACIYNPIIYCFMNKQFQACIMKMVCG</Hsp_qseq>
+      <Hsp_hseq>FFALIFLVGAVGNALVLAVLLRGGQAVSTTNLFILNLGVADLCFILCCVP-FQATIYTLDDW-VFGSLLCKAVHFLIFLTMHASSFTLAAVSLDRYLAIRYPLHSRELRTPRNALAAIGLIWGLALLFSGPYLSYYSQSQLANLTV-CHPAW----SAPRRRAMDLCTFVFSYLLPVLVLSLTYARTLHYLWRTVDPVAAGSGSQRAKRKVTRMIVIVAVLFCLCWMPHHALILCVWFGRFPLTRATYALRI----LSHLVSYANSCVNPIVYALVSKHFRKGFRKICAG</Hsp_hseq>
+      <Hsp_midline>F   +FL+G   NA+VL   LR  +     N  ++N+      F+LC    F   + + + + VFG  +C    FL  +    + ++LA ++ +RY+ I  P  +    + ++AL  +   W + +  S P    +S+     L   C P W    +  R  +     F+F +++P+ ++  +Y + L  L          + +Q+A+R+V+RM+V++   FC+C++P+ A      F  + +    + L +    +    S +    NPI+Y  ++K F+    K+  G</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>241</Hit_num>
+  <Hit_id>sp|P47937.2|</Hit_id>
+  <Hit_def>RecName: Full=Neuromedin-K receptor; Short=NKR; AltName: Full=NK-3 receptor; Short=NK-3R; AltName: Full=Neurokinin B receptor; AltName: Full=Tachykinin receptor 3 [Mus musculus]</Hit_def>
+  <Hit_accession>P47937</Hit_accession>
+  <Hit_len>452</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>80.4925</Hsp_bit-score>
+      <Hsp_score>197</Hsp_score>
+      <Hsp_evalue>1.95374e-15</Hsp_evalue>
+      <Hsp_query-from>28</Hsp_query-from>
+      <Hsp_query-to>312</Hsp_query-to>
+      <Hsp_hit-from>66</Hsp_hit-from>
+      <Hsp_hit-to>352</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>74</Hsp_identity>
+      <Hsp_positive>141</Hsp_positive>
+      <Hsp_gaps>16</Hsp_gaps>
+      <Hsp_align-len>294</Hsp_align-len>
+      <Hsp_qseq>IAPVWAFYLQAAFMGTVFLIGFPLNAMVLVATLRYKKLRQPLNYILVNVSFGGFLLCIFSVFPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFGNFRFSSKHALTVVLATWTIGIGVSIPP-FFGWSRFIPEGLQCSCGPDWYTVGTKYRSESYTWFLFIFCFIVPLSLICFSYTQLLRAL--KAVAAQQQESATTQ-KAEREVSRMVVVMVGSFCVCYVPYAAF----AMYMVNNRNHGLDLRLVTIPSFF-SKSACIYNPIIYCFMNKQFQA</Hsp_qseq>
+      <Hsp_hseq>VQPSWRIALWSLAYGLVVAVAVFGNLIVIWIILAHKRMRTVTNYFLVNLAFSDASVAAFNTLVNFIYGVHSEWYFGANYCRFQNFFPITAVFASIYSMTAIAVDRYMAIIDPLKP-RLSATATKIVIGSIWILAFLLAFPQCLYSKIKVMPGRTLCYV--QWPEGPKQHFTYHIIVIILVYCF--PLLIMGVTYTIVGITLWGGEIPGDTCDKYHEQLKAKRKVVKMMIIVVVTFAICWLPYHVYFILTAIYQQLNRWK--YIQQVYLASFWLAMSSTMYNPIIYCCLNKRFRA</Hsp_hseq>
+      <Hsp_midline>+ P W   L +   G V  +    N +V+   L +K++R   NY LVN++F    +  F+    F+   +  + FG + C  + F    A   + +S+  +A +RY+ I  P    R S+     V+ + W +   ++ P   +   + +P    C     W     ++ +      + ++CF  PL ++  +YT +   L    +     +    Q KA+R+V +M++++V +F +C++PY  +    A+Y   NR     ++ V + SF+ + S+ +YNPIIYC +NK+F+A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>242</Hit_num>
+  <Hit_id>sp|P30548.2|</Hit_id>
+  <Hit_def>RecName: Full=Substance-P receptor; Short=SPR; AltName: Full=NK-1 receptor; Short=NK-1R; AltName: Full=Tachykinin receptor 1 [Mus musculus]</Hit_def>
+  <Hit_accession>P30548</Hit_accession>
+  <Hit_len>407</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>80.1073</Hsp_bit-score>
+      <Hsp_score>196</Hsp_score>
+      <Hsp_evalue>2.07697e-15</Hsp_evalue>
+      <Hsp_query-from>11</Hsp_query-from>
+      <Hsp_query-to>311</Hsp_query-to>
+      <Hsp_hit-from>11</Hsp_hit-from>
+      <Hsp_hit-to>313</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>75</Hsp_identity>
+      <Hsp_positive>147</Hsp_positive>
+      <Hsp_gaps>12</Hsp_gaps>
+      <Hsp_align-len>308</Hsp_align-len>
+      <Hsp_qseq>LFKNISSVGPWDGPQYHIAPVWAFYLQAAFMGTVFLIGFPLNAMVLVATLRYKKLRQPLNYILVNVSFGGFLLCIFSVFPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFGNFRFSSKHALTVVLATWTIGIGVSIPP-FFGWSRFIPEGLQCSCGPDWYTVGTKYRSESYTWFLFIFCFIVPLSLICFSYTQLLRALKAVAAQQQESATTQK---AEREVSRMVVVMVGSFCVCYVPYAAFAMYMVNNRNHGLD--LRLVTIPS-FFSKSACIYNPIIYCFMNKQFQ</Hsp_qseq>
+      <Hsp_hseq>LFPN-TSTNTSESNQF-VQPTWQIVLWAAAYTVIVVTSVVGNVVVIWIILAHKRMRTVTNYFLVNLAFAEACMAAFNTVVNFTYAVHNVWYYGLFYCKFHNFFPIAALFASIYSMTAVAFDRYMAIIHPLQP-RLSATATKVVIFVIWVLALLLAFPQGYYSTTETMPSRVVCMI--EWPEHPNRTYEKAYHICVTVLIYFLPLLVIGYAYTVVGITLWASEIPGDSSDRYHEQVSAKRKVVKMMIVVVCTFAICWLPFHIFFLLPYINPDLYLKKFIQQVYLASMWLAMSSTMYNPIIYCCLNDRFR</Hsp_hseq>
+      <Hsp_midline>LF N +S    +  Q+ + P W   L AA    + +     N +V+   L +K++R   NY LVN++F    +  F+    F  + +  + +G   C    F    A   + +S+  +AF+RY+ I  P    R S+     V+   W + + ++ P  ++  +  +P  + C    +W     +   ++Y   + +  + +PL +I ++YT +   L A       S    +   A+R+V +M++V+V +F +C++P+  F +    N +  L   ++ V + S + + S+ +YNPIIYC +N +F+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>248</Hit_num>
+  <Hit_id>sp|Q61212.1|</Hit_id>
+  <Hit_def>RecName: Full=Neuropeptide Y receptor type 6; Short=NPY6-R; AltName: Full=Pancreatic polypeptide receptor 2; Short=PP2 [Mus musculus]</Hit_def>
+  <Hit_accession>Q61212</Hit_accession>
+  <Hit_len>371</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>78.5666</Hsp_bit-score>
+      <Hsp_score>192</Hsp_score>
+      <Hsp_evalue>5.1618e-15</Hsp_evalue>
+      <Hsp_query-from>53</Hsp_query-from>
+      <Hsp_query-to>338</Hsp_query-to>
+      <Hsp_hit-from>55</Hsp_hit-from>
+      <Hsp_hit-to>358</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>74</Hsp_identity>
+      <Hsp_positive>143</Hsp_positive>
+      <Hsp_gaps>26</Hsp_gaps>
+      <Hsp_align-len>308</Hsp_align-len>
+      <Hsp_qseq>AMVLVATLRYKKLRQPLNYILVNVSFGGFLLCIFSVFPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFGNFRFSSKHALTVVLATWTIGIGVSIPPFFGWSRFIPEGLQCSCGPDWYTVG--------TKYRSESYTWFLFIFCFIVPLSLICFSYTQLLRALKAVAAQ---QQESATTQKAEREVSRMVVVMVGSFCVCYVPYAAFAMY------MVNNRNHGLDLRLVTIPSFFSKSACIYNPIIYCFMNKQFQACIMKMV----CGKAMTD-ESDTCSSQKTEVS</Hsp_qseq>
+      <Hsp_hseq>SLIIIIFKKQREAQNVTNILIANLSLSDILVCVMCIPFTVIYTLMDHWVFGNTMCKLTSYVQSVSVSVSIFSLVLIAIERYQLIVNPRG-WKPRVAHAYWGIILIWLISLTLSIPLFLSYHLTNEPFHNLSLPTDIYTHQVACVEIWPSKLNQLLFSTSLFMLQYFVPLGFILICYLKIVLCLRKRTRQVDRRKENKSRLNENKRVNVMLISIVVTFGACWLPLNIFNVIFDWYHEMLMSCHH--DLVFVVCHLIAMVSTCI-NPLFYGFLNKNFQKDLMMLIHHCWCGEPQESYENIAMSTMHTDES</Hsp_hseq>
+      <Hsp_midline>+++++   + ++ +   N ++ N+S    L+C+  +    + +   ++VFG  +C L  ++ +V+  V+ +SL  +A ERY +I  P G ++    HA   ++  W I + +SIP F  +          S   D YT          +K     ++  LF+  + VPL  I   Y +++  L+    Q   ++E+ +     + V+ M++ +V +F  C++P   F +       M+ + +H  DL  V        S CI NP+ Y F+NK FQ  +M ++    CG+     E+   S+  T+ S</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>256</Hit_num>
+  <Hit_id>sp|P58307.3|</Hit_id>
+  <Hit_def>RecName: Full=Orexin/Hypocretin receptor type 1; AltName: Full=Hypocretin receptor type 1; AltName: Full=Orexin receptor type 1; Short=Ox-1-R; Short=Ox1-R; Short=Ox1R [Mus musculus]</Hit_def>
+  <Hit_accession>P58307</Hit_accession>
+  <Hit_len>416</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>77.7962</Hsp_bit-score>
+      <Hsp_score>190</Hsp_score>
+      <Hsp_evalue>1.20762e-14</Hsp_evalue>
+      <Hsp_query-from>36</Hsp_query-from>
+      <Hsp_query-to>311</Hsp_query-to>
+      <Hsp_hit-from>49</Hsp_hit-from>
+      <Hsp_hit-to>366</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>74</Hsp_identity>
+      <Hsp_positive>134</Hsp_positive>
+      <Hsp_gaps>54</Hsp_gaps>
+      <Hsp_align-len>324</Hsp_align-len>
+      <Hsp_qseq>LQAAFMGTVFLIGFPLNAMVLVATLRYKKLRQPLNYILVNVSFGGFLLCIFSVFPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFGNFRFSSKHALTVVLATWTIGIGVSIP--PFFGWSRFIPE-----GLQCSCGPDWYTVGTKYRSESYTWFLFIFCFIVPLSLICFSYTQLLRAL--------------------KAVAAQQQ--------------ESATTQKAEREVSRMVVVMVGSFCVCYVPYA-------AFAMYMVNNRNHGLDLRLVTIPSFFSKSACIYNPIIYCFMNKQFQ</Hsp_qseq>
+      <Hsp_hseq>LIAAYVA-VFLIALVGNTLVCLAVWRNHHMRTVTNYFIVNLSLADVLVTAICLPASLLVDITESWLFGQALCKVIPYLQAVSVSVAVLTLSFIALDRWYAICHPLL-FKSTARRARGSILGIWAVSLAVMVPQAAVMECSSVLPELANRTRLFSVCDEHW---ADELYPKIYHSCFFIVTYLAPLGLMAMAYFQIFRKLWGRQIPGTTSALVRNWKRPSEQLEAQHQGLCTEPQPRARAFLAEVKQMRARRKTAKMLMVVLLVFALCYLPISVLNVLKRVFGMFRQASDREAV-YACFTFSHWLVYANSAANPIIYNFLSGKFR</Hsp_hseq>
+      <Hsp_midline>L AA++  VFLI    N +V +A  R   +R   NY +VN+S    L+    +    +      ++FG+ +C +  +L  V+  V   +L+F+A +R+  IC P   F+ +++ A   +L  W + + V +P       S  +PE      L   C   W     +   + Y    FI  ++ PL L+  +Y Q+ R L                    + + AQ Q                    +A R+ ++M++V++  F +CY+P +        F M+   +    +     T   +   +    NPIIY F++ +F+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>261</Hit_num>
+  <Hit_id>sp|P58308.2|</Hit_id>
+  <Hit_def>RecName: Full=Orexin receptor type 2; Short=Ox-2-R; Short=Ox2-R; Short=Ox2R; AltName: Full=Hypocretin receptor type 2 [Mus musculus]</Hit_def>
+  <Hit_accession>P58308</Hit_accession>
+  <Hit_len>460</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>77.0258</Hsp_bit-score>
+      <Hsp_score>188</Hsp_score>
+      <Hsp_evalue>2.45378e-14</Hsp_evalue>
+      <Hsp_query-from>44</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>64</Hsp_hit-from>
+      <Hsp_hit-to>417</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>80</Hsp_identity>
+      <Hsp_positive>146</Hsp_positive>
+      <Hsp_gaps>74</Hsp_gaps>
+      <Hsp_align-len>363</Hsp_align-len>
+      <Hsp_qseq>VFLIGFPLNAMVLVATLRYKKLRQPLNYILVNVSFGGFLLCIFSVFPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFGNFRFSSKHALTVVLATWTIGIGVSIPP--FFGWSRFIP-----EGLQCSCGPDWYTVGTKYRSESYTWFLFIFCFIVPLSLICFSYTQLLRAL-----------------------KAVAAQQQESATTQ---------KAEREVSRMVVVMVGSFCVCYVPYA-------AFAMYMVNNRNHGLDLRLV----TIPSFFSKSACIYNPIIYCFMNKQFQ-------ACIM--------KMVCGKAMTDESDTCSSQKTEVSTVS</Hsp_qseq>
+      <Hsp_hseq>VFVVALIGNVLVCVAVWKNHHMRTVTNYFIVNLSLADVLVTITCLPATLVVDITETWFFGQSLCKVIPYLQTVSVSVSVLTLSCIALDRWYAICHPLM-FKSTAKRARNSIVVIWIVSCIIMIPQAIVMECSSMLPGLANKTTLFTVCDEHW---GGEVYPKMYHICFFLVTYMAPLCLMILAYLQIFRKLWCRQIPGTSSVVQRKWKQQQPVSQPRGSGQQSKARISAVAAEIKQIRARRKTARMLMVVLLVFAICYLPISILNVLKRVFGMF-----THTEDRETVYAWFTFSHWLVYANSAANPIIYNFLSGKFREEFKAAFSCCLGVHHRQGDRLARGRTSTESRKSLTTQISNFDNVS</Hsp_hseq>
+      <Hsp_midline>VF++    N +V VA  +   +R   NY +VN+S    L+ I  +    V      + FG+ +C +  +L TV+  V+  +L+ +A +R+  IC P   F+ ++K A   ++  W +   + IP       S  +P       L   C   W   G +   + Y    F+  ++ PL L+  +Y Q+ R L                       +   + QQ  A            +A R+ +RM++V++  F +CY+P +        F M+      H  D   V    T   +   +    NPIIY F++ +F+       +C +        ++  G+  T+   + ++Q +    VS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>271</Hit_num>
+  <Hit_id>sp|P35377.1|</Hit_id>
+  <Hit_def>RecName: Full=Nociceptin receptor; AltName: Full=K3 opiate receptor; AltName: Full=Kappa-type 3 opioid receptor; Short=KOR-3; AltName: Full=ORGC; AltName: Full=Orphanin FQ receptor [Mus musculus]</Hit_def>
+  <Hit_accession>P35377</Hit_accession>
+  <Hit_len>367</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>73.1738</Hsp_bit-score>
+      <Hsp_score>178</Hsp_score>
+      <Hsp_evalue>3.62199e-13</Hsp_evalue>
+      <Hsp_query-from>52</Hsp_query-from>
+      <Hsp_query-to>337</Hsp_query-to>
+      <Hsp_hit-from>66</Hsp_hit-from>
+      <Hsp_hit-to>353</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>74</Hsp_identity>
+      <Hsp_positive>135</Hsp_positive>
+      <Hsp_gaps>26</Hsp_gaps>
+      <Hsp_align-len>300</Hsp_align-len>
+      <Hsp_qseq>NAMVLVATLRYKKLRQPLNYILVNVSFGGFLLCI---FSVFPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFG--NFRFSSKHALTVVLATWTIGIGVSIP-PFFGWSRFIPEGLQCSCGPDWYTVGTKYRSESYTWFLFIFCFIVPLSLICFSYTQLLRALKAVAAQQQESATTQKAEREVSRMVVVMVGSFCVCYVPYAAFAMYMVNNRNHGLD-----LRLVTIPSFFSKSACIYNPIIYCFMNKQFQACIMKMVCGKAMTDE---SDTCSSQKTEV</Hsp_qseq>
+      <Hsp_hseq>NCLVMYVILRHTKMKTATNIYIFNLALADTLVLLTLPFQGTDILL----GFWPFGNALCKTVIAIDYYNMFTSTFTLTAMSVDRYVAICHPIRALDVRTSSK-AQAVNVAIWALASVVGVPVAIMGSAQVEDEEIECLVE---IPAPQDYWGPVFAICIFLFSFIIPVLIISVCYSLMIRRLRGVRLLSG-SREKDRNLRRITRLVLVVVAVFVGCWTPVQVFVLVQGLGVQPGSETAVAILRFCTALGYVN--SCL-NPILYAFLDENFKACFRKFCCASALHREMQVSDRVRSIAKDV</Hsp_hseq>
+      <Hsp_midline>N +V+   LR+ K++   N  + N++    L+ +   F    + +    G++ FG  +C     +       + ++L  ++ +RY+ IC P    + R SSK A  V +A W +   V +P    G ++   E ++C            Y    +   +F+F FI+P+ +I   Y+ ++R L+ V      S    +  R ++R+V+V+V  F  C+ P   F +        G +     LR  T   + +  +C+ NPI+Y F+++ F+AC  K  C  A+  E   SD   S   +V</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>278</Hit_num>
+  <Hit_id>sp|P49660.2|</Hit_id>
+  <Hit_def>RecName: Full=Somatostatin receptor type 4; Short=SS-4-R; Short=SS4-R; Short=SS4R [Mus musculus]</Hit_def>
+  <Hit_accession>P49660</Hit_accession>
+  <Hit_len>385</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>72.7886</Hsp_bit-score>
+      <Hsp_score>177</Hsp_score>
+      <Hsp_evalue>5.04199e-13</Hsp_evalue>
+      <Hsp_query-from>44</Hsp_query-from>
+      <Hsp_query-to>319</Hsp_query-to>
+      <Hsp_hit-from>54</Hsp_hit-from>
+      <Hsp_hit-to>324</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>62</Hsp_identity>
+      <Hsp_positive>129</Hsp_positive>
+      <Hsp_gaps>15</Hsp_gaps>
+      <Hsp_align-len>281</Hsp_align-len>
+      <Hsp_qseq>VFLIGFPLNAMVLVATLRYKKLRQPLNYILVNVSFGGFLLCIFSVFPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFGNFRFSSKHALTVV-LATWTIGIGVSIP-PFFGWSRFIPEGLQCSCGPDWYTVGTKYRSESYTWFLFIFCFIVPLSLICFSYTQLLRALKAVAAQ---QQESATTQKAEREVSRMVVVMVGSFCVCYVPYAAFAMYMVNNRNHGLDLRLVTIPSFFSKSACIYNPIIYCFMNKQFQACIMKMVC</Hsp_qseq>
+      <Hsp_hseq>VCLVGLVGNALVIFVILRYAKMKTATNIYLLNLAVADELFMLSVPFARSAAALR-HWPFGAVLCRAVLSVDGLNMFTSVFCLTVLSVDRYVAVVHPLATATYRRPSVAKLINLGVWLASLLVTLPIAVFADTRPARGGEAVACNLHW---PHPAWSAVFVIYTFLLGFLPPVLAIGLCYLLIVGKMRAVALAGGWQQR----RRSEKKITRLVLMVVTVFVLCWMPF--YVVQLLNLFVTSLDATVNHVSLILSYANSCANPILYGFLSDNFRRSFQRVLC</Hsp_hseq>
+      <Hsp_midline>V L+G   NA+V+   LRY K++   N  L+N++    L  +   F    A+   ++ FG  +C     +  +    + + L  L+ +RY+ +  P     +       ++ L  W   + V++P   F  +R    G   +C   W        S  +  + F+  F+ P+  I   Y  ++  ++AVA     QQ     +++E++++R+V+++V  F +C++P+  + + ++N     LD  +  +    S +    NPI+Y F++  F+    +++C</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>281</Hit_num>
+  <Hit_id>sp|P32304.2|</Hit_id>
+  <Hit_def>RecName: Full=5-hydroxytryptamine receptor 7; Short=5-HT-7; Short=5-HT7; AltName: Full=5-HT-X; AltName: Full=Serotonin receptor 7 [Mus musculus]</Hit_def>
+  <Hit_accession>P32304</Hit_accession>
+  <Hit_len>448</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>72.7886</Hsp_bit-score>
+      <Hsp_score>177</Hsp_score>
+      <Hsp_evalue>5.8747e-13</Hsp_evalue>
+      <Hsp_query-from>52</Hsp_query-from>
+      <Hsp_query-to>311</Hsp_query-to>
+      <Hsp_hit-from>102</Hsp_hit-from>
+      <Hsp_hit-to>395</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>64</Hsp_identity>
+      <Hsp_positive>133</Hsp_positive>
+      <Hsp_gaps>58</Hsp_gaps>
+      <Hsp_align-len>306</Hsp_align-len>
+      <Hsp_qseq>NAMVLVATLRYKKLRQPLNYILVNVSFGGFLLCIFSVFPVFVASCN---GYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFG-NFRFSSKHALTVVLATWTIGIGVSIPPFFGWSRFIPEGLQCSCGPDWYTVGTKYRSESYTWFLFIFCFIVPLSLICFSYTQLLRALKAVAAQ---------QQESATTQ------------------------------KAEREVSRMVVVMVGSFCVCYVPYAAFAM---YMVNNRNHGLDLRLVTIPSFFSKSACIYNPIIYCFMNKQFQ</Hsp_qseq>
+      <Hsp_hseq>NCLVVISVCFVKKLRQPSNYLIVSLALADLSVAV-AVMP-FVSVTDLIGGKWIFGHFFCNVFIAMDVMCCTASIMTLCVISIDRYLGITRPLTYPVRQNGKCMAKMILSVWLLSASITLPPLFGWAQNVNDDKVCLISQDF----------GYTIYSTAVAFYIPMSVMLFMYYQIYKAARKSAAKHKFSGFPRVQPESVISLNGVVKLQKEVEECANLSRLLKHERKNISIFKREQKAATTLGIIVGAFTVCWLPFFLLSTARPFICGTSCSCIPLWVERTCLWLGYANSLINPFIYAFFNRDLR</Hsp_hseq>
+      <Hsp_midline>N +V+++    KKLRQP NY++V+++     + + +V P FV+  +   G ++FG   C +   +  +    +  +L  ++ +RY+ I +P     R + K    ++L+ W +   +++PP FGW++ + +   C    D+           YT +     F +P+S++ F Y Q+ +A +  AA+         Q ES  +                               K E++ +  + ++VG+F VC++P+   +    ++       + L +     +   +  + NP IY F N+  +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>282</Hit_num>
+  <Hit_id>sp|P30873.1|</Hit_id>
+  <Hit_def>RecName: Full=Somatostatin receptor type 1; Short=SS-1-R; Short=SS1-R; Short=SS1R; AltName: Full=SRIF-2 [Mus musculus]</Hit_def>
+  <Hit_accession>P30873</Hit_accession>
+  <Hit_len>391</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>72.4034</Hsp_bit-score>
+      <Hsp_score>176</Hsp_score>
+      <Hsp_evalue>6.00091e-13</Hsp_evalue>
+      <Hsp_query-from>44</Hsp_query-from>
+      <Hsp_query-to>328</Hsp_query-to>
+      <Hsp_hit-from>68</Hsp_hit-from>
+      <Hsp_hit-to>348</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>69</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>38</Hsp_gaps>
+      <Hsp_align-len>302</Hsp_align-len>
+      <Hsp_qseq>VFLIGFPLNAMVLVATLRYKKLRQPLNYILVNVSFGGFLLCIFSVFPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFGNFRFSSKHALTVV-LATWTIGIGVSIPPFFGWSR-------------FIPEGLQCSCGPDWYTVGTKYRSESYTWFLFIFCFIVPLSLICFSYTQLLRALKAVAAQ---QQESATTQKAEREVSRMVVVMVGSFCVCYVPYAAFAMYMVNNRNHGLDLRLVTIPSFFSKSACIYNPIIYCFMNKQFQACIMKMVCGKAMTDESD</Hsp_qseq>
+      <Hsp_hseq>VCLVGLCGNSMVIYVILRYAKMKTATNIYILNLAIADELL-MLSVPFLVTSTLLRHWPFGALLCRLVLSVDAVNMFTSIYCLTVLSVDRYVAVVHPIKAARYRRPTVAKVVNLGVWVLSLLV-ILPIVVFSRTAANSDGTVACNMLMPEPAQ-----RWLV--------GFVLYTFLMGFLLPVGAICLCYVLIIAKMRMVALKAGWQQR----KRSERKITLMVMMVVMVFVICWMPF--YVVQLVNVFAEQDDATVSQLSVILGYANSCANPILYGFLSDNFKRSFQRILCLSWMDNAAE</Hsp_hseq>
+      <Hsp_midline>V L+G   N+MV+   LRY K++   N  ++N++    LL + SV  +  ++   ++ FG  +C L   +  V    + + L  L+ +RY+ +  P    R+       VV L  W + + V I P   +SR              +PE  Q      W           +  + F+  F++P+  IC  Y  ++  ++ VA +   QQ     +++ER+++ MV+++V  F +C++P+  + + +VN      D  +  +      +    NPI+Y F++  F+    +++C   M + ++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>299</Hit_num>
+  <Hit_id>sp|Q61041.2|</Hit_id>
+  <Hit_def>RecName: Full=Neuropeptide Y receptor type 4; Short=NPY4-R; AltName: Full=NPYR-D; AltName: Full=Pancreatic polypeptide receptor 1; Short=PP1 [Mus musculus]</Hit_def>
+  <Hit_accession>Q61041</Hit_accession>
+  <Hit_len>375</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>68.9366</Hsp_bit-score>
+      <Hsp_score>167</Hsp_score>
+      <Hsp_evalue>8.60798e-12</Hsp_evalue>
+      <Hsp_query-from>22</Hsp_query-from>
+      <Hsp_query-to>318</Hsp_query-to>
+      <Hsp_hit-from>32</Hsp_hit-from>
+      <Hsp_hit-to>337</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>73</Hsp_identity>
+      <Hsp_positive>140</Hsp_positive>
+      <Hsp_gaps>31</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>DGPQYHIAPVWAFYLQAAFMGTVFLIGFPLNAMVLVATLRYKKLRQPLNYILVNVSFGGFLLCIFSVFPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFGNFRFSSKHALTVVLATWTIGIGVSIP--------PFFGWSR-----FIPEGLQCSCGPDWYTVGTKYRSESYTWFLFIFCFIVPLSLICFSYTQLLRALKAVAAQQQESATTQKA--EREVSRMVVVMVGSFCVCYVPYAAFAMYMVNNRN-----HGLDLRLVTIPSFFSKSACIYNPIIYCFMNKQFQACIMKMV</Hsp_qseq>
+      <Hsp_hseq>DGCQ-DSAELLAFIITTYSIETI--LGVLGNLCLIFVTTRQKEKSNVTNLLIANLAFSDFLMCLICQPLTVTYTIMDYWIFGEVLCKMLTFIQCMSVTVSILSLVLVALERHQLIINPTG-WKPSIFQAYLGIVVIWFVSCFLSLPFLANSTLNDLFHYNHSKVVEFLEDKVVC-----FVSWSSDHHRLIYTTFLLLFQYCIPLAFILVCYIRIYQRLQRQKHVFHAHACSSRAGQMKRINSMLMTMVTAFAVLWLPLHVFNTLEDWYQEAIPACHG-NLIFLMCHLLAMASTCV-NPFIYGFLNINFKKDIKALV</Hsp_hseq>
+      <Hsp_midline>DG Q   A + AF +    + T+  +G   N  ++  T R K+     N ++ N++F  FL+C+         +   Y++FG  +C +  F+  ++  V+  SL  +A ER+ +I  P G ++ S   A   ++  W +   +S+P          F ++      F+ + + C     + +  + +    YT FL +F + +PL+ I   Y ++ + L+         A + +A   + ++ M++ MV +F V ++P   F       +      HG +L  +        S C+ NP IY F+N  F+  I  +V</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>304</Hit_num>
+  <Hit_id>sp|Q62463.1|</Hit_id>
+  <Hit_def>RecName: Full=Vasopressin V1a receptor; Short=V1aR; AltName: Full=AVPR V1a; AltName: Full=Antidiuretic hormone receptor 1a; AltName: Full=Vascular/hepatic-type arginine vasopressin receptor [Mus musculus]</Hit_def>
+  <Hit_accession>Q62463</Hit_accession>
+  <Hit_len>423</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>68.9366</Hsp_bit-score>
+      <Hsp_score>167</Hsp_score>
+      <Hsp_evalue>1.10549e-11</Hsp_evalue>
+      <Hsp_query-from>36</Hsp_query-from>
+      <Hsp_query-to>342</Hsp_query-to>
+      <Hsp_hit-from>53</Hsp_hit-from>
+      <Hsp_hit-to>398</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>68</Hsp_identity>
+      <Hsp_positive>138</Hsp_positive>
+      <Hsp_gaps>39</Hsp_gaps>
+      <Hsp_align-len>346</Hsp_align-len>
+      <Hsp_qseq>LQAAFMGTVFLIGFPLNAMVLVATLRYKKLRQPLNYILVNVSFGGFLLCIFSVFPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFGNFRFSSKHALTVVLATWTIGIGVSIPPFFGWSRFIPEGLQCSCGPD-WYTVGTKYRSESYTWFLFIFCFIVPLSLI--CFSYT--QLLRALKAVAAQQQESATTQKAE------------------REVSR-------MVVVMVGSFCVCYVPYAAFAMYMVNNRN---HGLDLRLVTIPSFFSKSACIYNPIIYCFMNKQ-FQACIMKMVCGKAMT-----DESDTCSSQKTEVSTVSS</Hsp_qseq>
+      <Hsp_hseq>LEVTVLAVIFVVAVLGNSSVLLALHRTPRKTSRMHLFIRHLSLADLAVAFFQVLPQLCWDITYRFRGPDWLCRVVKHLQVFAMFASSYMLVVMTADRYIAVCHPLKTLQQPARRSRLMIAASWGLSFVLSIPQYFIFSVIEFEVNNGTKAQDCWATFIPPWGTRAYVTWMTSGVFVVPVIILGTCYGFICYHIWRNVRGKTASRQSKGGKGSGEAAGPFHKGLLVTPCVSSVKSISRAKIRTVKMTFVIVSAYILCWTPFFIVQMWSVWDTNFVWTDSENPSTTITALLASLNSCCNPWIYMFFSGHLLQDCVQSFPCCQSIAQKFAKDDSDSMSRRQTSYSNNRS</Hsp_hseq>
+      <Hsp_midline>L+   +  +F++    N+ VL+A  R  +    ++  + ++S     +  F V P         F     +C +   L   A   + + L  +  +RYI +C P    +  ++ +  ++ A+W +   +SIP +F +S    E    +   D W T    + + +Y  ++    F+VP+ ++  C+ +    + R ++   A +Q        E                  + +SR       M  V+V ++ +C+ P+    M+ V + N      +    TI +  +      NP IY F +    Q C+    C +++      D+SD+ S ++T  S   S</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>322</Hit_num>
+  <Hit_id>sp|P30875.1|</Hit_id>
+  <Hit_def>RecName: Full=Somatostatin receptor type 2; Short=SS-2-R; Short=SS2-R; Short=SS2R; AltName: Full=SRIF-1 [Mus musculus]</Hit_def>
+  <Hit_accession>P30875</Hit_accession>
+  <Hit_len>369</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>66.2402</Hsp_bit-score>
+      <Hsp_score>160</Hsp_score>
+      <Hsp_evalue>6.59744e-11</Hsp_evalue>
+      <Hsp_query-from>17</Hsp_query-from>
+      <Hsp_query-to>344</Hsp_query-to>
+      <Hsp_hit-from>24</Hsp_hit-from>
+      <Hsp_hit-to>357</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>76</Hsp_identity>
+      <Hsp_positive>156</Hsp_positive>
+      <Hsp_gaps>34</Hsp_gaps>
+      <Hsp_align-len>348</Hsp_align-len>
+      <Hsp_qseq>SVGPWDGPQYHIAPVWAFYLQAAFMGTVFLI---GFPLNAMVLVATLRYKKLRQPLNYILVNVSFGGFLLCIFSVFPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFGNFRFSS-KHALTVVLATWTIGIGVSIPPFFGWSRFIPEGLQCSCGPDWYTVGTKYRSESYTWFL------FIFCFIVPLSLICFSYTQLLRALKAVAAQQQESATTQKAEREVSRMVVVMVGSFCVCYVPYAAFAMYMVN---NRNHGLD--LRLVTIPSFFSKSACIYNPIIYCFMNKQFQACIMKMVC-----GKAMTDESDTCSSQKTEVSTVSSTQ</Hsp_qseq>
+      <Hsp_hseq>SLGPSNGSN-QTEPYYDMTSNAVLTFIYFVVCVVGLCGNTLVIYVILRYAKMKTITNIYILNLAIADELFMLGLPFLAMQVAL-VHWPFGKAICRVVMTVDGINQFTSIFCLTVMSIDRYLAVVHPIKSAKWRRPRTAKMINVAVWCVSLLVILPIMIYAGLRSNQWGRSSCTINW-------PGESGAWYTGFIIYAFILGFLVPLTIICLCYLFIIIKVKS-SGIRVGSSKRKKSEKKVTRMVSIVVAVFIFCWLPFYIFNVSSVSVAISPTPALKGMFDFVVILTYANSCA---NPILYAFLSDNFKKSFQNVLCLVKVSGTEDGERSDS-KQDKSRLNETTETQ</Hsp_hseq>
+      <Hsp_midline>S+GP +G      P +     A      F++   G   N +V+   LRY K++   N  ++N++    L  +   F     +   ++ FG+ +C +   +  +    + + L  ++ +RY+ +  P  + ++   + A  + +A W + + V +P          +  + SC  +W         ES  W+       FI  F+VPL++IC  Y  ++  +K+ +  +  S+  +K+E++V+RMV ++V  F  C++P+  F +  V+   +    L      V I ++ +  A   NPI+Y F++  F+     ++C     G    + SD+    K+ ++  + TQ</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>323</Hit_num>
+  <Hit_id>sp|O08786.1|</Hit_id>
+  <Hit_def>RecName: Full=Cholecystokinin receptor type A; Short=CCK-A receptor; Short=CCK-AR; AltName: Full=Cholecystokinin-1 receptor; Short=CCK1-R [Mus musculus]</Hit_def>
+  <Hit_accession>O08786</Hit_accession>
+  <Hit_len>436</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>66.6254</Hsp_bit-score>
+      <Hsp_score>161</Hsp_score>
+      <Hsp_evalue>6.9054e-11</Hsp_evalue>
+      <Hsp_query-from>22</Hsp_query-from>
+      <Hsp_query-to>177</Hsp_query-to>
+      <Hsp_hit-from>31</Hsp_hit-from>
+      <Hsp_hit-to>184</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>41</Hsp_identity>
+      <Hsp_positive>78</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>157</Hsp_align-len>
+      <Hsp_qseq>DGPQYHIAPVWAFYLQAAFMGTVFLIGFPLNAMVLVATLRYKKLRQPLNYILVNVSFGGFLLCIFSVFPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFGNFRFSSK-HALTVVLATWTIGIGVSIPPFFGWSRFIP</Hsp_qseq>
+      <Hsp_hseq>DQPQP--SKEWQSAVQILLYSFIFLLSVLGNTLVITVLIRNKRMRTVTNIFLLSLAVSDLMLCLFCMPFNLIPNLLKDFIFGSAVCKTTTYFMGTSVSVSTFNLVAISLERYGAICRPLQSRVWQTKSHALKVIAATWCLSFTI-MTPYPIYSNLVP</Hsp_hseq>
+      <Hsp_midline>D PQ   +  W   +Q      +FL+    N +V+   +R K++R   N  L++++    +LC+F +    + +    F+FG  VC    +    +  V+ ++L  ++ ERY  IC+P  +  + +K HAL V+ ATW +   + + P+  +S  +P</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>43.1282</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>0.00259285</Hsp_evalue>
+      <Hsp_query-from>237</Hsp_query-from>
+      <Hsp_query-to>315</Hsp_query-to>
+      <Hsp_hit-from>309</Hsp_hit-from>
+      <Hsp_hit-to>390</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>28</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>9</Hsp_gaps>
+      <Hsp_align-len>85</Hsp_align-len>
+      <Hsp_qseq>SATTQKAEREVSRMVVVMVGSFCVCYVP------YAAFAMYMVNNRNHGLDLRLVTIPSFFSKSACIYNPIIYCFMNKQFQACIM</Hsp_qseq>
+      <Hsp_hseq>SAANLIAKKRVIRMLIVIVVLFFLCWMPIFSANAWRAYDTVSAEKHLSGTPISFILLLSY--TSSCV-NPIIYCFMNKRFRLGFM</Hsp_hseq>
+      <Hsp_midline>SA    A++ V RM++V+V  F +C++P      + A+          G  +  + + S+   S+C+ NPIIYCFMNK+F+   M</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>331</Hit_num>
+  <Hit_id>sp|O70342.2|</Hit_id>
+  <Hit_def>RecName: Full=Neuropeptide Y receptor type 5; Short=NPY5-R; AltName: Full=NPY-Y5 receptor; Short=NPYY5-R; Short=Y5 receptor [Mus musculus]</Hit_def>
+  <Hit_accession>O70342</Hit_accession>
+  <Hit_len>466</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>66.2402</Hsp_bit-score>
+      <Hsp_score>160</Hsp_score>
+      <Hsp_evalue>9.72922e-11</Hsp_evalue>
+      <Hsp_query-from>30</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>49</Hsp_hit-from>
+      <Hsp_hit-to>268</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>54</Hsp_identity>
+      <Hsp_positive>102</Hsp_positive>
+      <Hsp_gaps>15</Hsp_gaps>
+      <Hsp_align-len>221</Hsp_align-len>
+      <Hsp_qseq>PVWAFY------LQAAFMGT---VFLIGFPLNAMVLVATLRYKKLRQPLNYILVNVSFGGFLLCIFSVFPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFGNFRFSSKHALTVVLATWTIGIGVSIP-PFFGWSRFIPEGLQCSCGPDWYTVGTKYRSESY----TWFLFIFCFIVPLSLICFSYTQLLRALKAVAAQQQE</Hsp_qseq>
+      <Hsp_hseq>PVWEDYRGSVDDLQYFLIGLYTFVSLLGFMGNLLILMAVMKKRNQKTTVNFLIGNLAFSDILVVLFCSPFTLTSVLLDQWMFGKAMCHIMPFLQCVSVLVSTLILISIAIVRYHMIKHPISN-NLTANHGYFLIATVWTLGFAICSPLPVFHSLVELKETFGSALLSSKYLCVESWPSDSYRIAFTISLLLVQYILPLVCLTVSHTSVCRSISCGLSHKEN</Hsp_hseq>
+      <Hsp_midline>PVW  Y      LQ   +G    V L+GF  N ++L+A ++ +  +  +N+++ N++F   L+ +F       +     ++FG+ +C +  FL  V+ LV+   L  +A  RY +I  P  N   ++ H   ++   WT+G  +  P P F     + E    +     Y     + S+SY    T  L +  +I+PL  +  S+T + R++    + ++ </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>333</Hit_num>
+  <Hit_id>sp|Q5QD14.1|</Hit_id>
+  <Hit_def>RecName: Full=Trace amine-associated receptor 5; Short=TaR-5; Short=Trace amine receptor 5; Short=mTaar5; AltName: Full=Trimethylamine receptor [Mus musculus]</Hit_def>
+  <Hit_accession>Q5QD14</Hit_accession>
+  <Hit_len>337</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>65.4698</Hsp_bit-score>
+      <Hsp_score>158</Hsp_score>
+      <Hsp_evalue>1.06569e-10</Hsp_evalue>
+      <Hsp_query-from>52</Hsp_query-from>
+      <Hsp_query-to>329</Hsp_query-to>
+      <Hsp_hit-from>52</Hsp_hit-from>
+      <Hsp_hit-to>331</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>71</Hsp_identity>
+      <Hsp_positive>129</Hsp_positive>
+      <Hsp_gaps>34</Hsp_gaps>
+      <Hsp_align-len>296</Hsp_align-len>
+      <Hsp_qseq>NAMVLVATLRYKKLRQPLNYILVNVSFGGFLLCIFSVFPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKP-FGNFRFSSKHALTVVLATWTIGIGVSIPPFFGWSRFIPEGL-----QCSCGPDWYTVGTKYRSESYTWF----LFIFCFIVPLSLICFSYTQLLRALKAVAAQQQESATTQKAEREVSRMVVVMVGSFCVCYVPYAAFAMYMVNNRNHGLDLRLVTIPSFFS--------KSACIYNPIIYCFMNKQFQACIMKMVCGKAMTDESDT</Hsp_qseq>
+      <Hsp_hseq>NLFVVFAVSYFKVLHTPTNFLLLSLALADMLLGLLVLPLSTVRSVESCWFFGDFLCRLHTYLDTLFCLTSIFHLCFISIDRHCAICDPLLYPSKFTVRTALRYIVAGW--GIPAAYTAFFLYTDVVERALSQWLEEMPCVGSCQLLFNKF----WGWLNFPAFFVPCLIM-ISLYLKIFVVATRQAQQIRTLSQSLAGAVKRERKAAKTLGIAVGIYLVCWLPFT------VDTLVDSL-LNFITPPLVFDIFIWFAYFNSAC--NPIIYVFSYRWFRKALKLLLSREIFSPRTPT</Hsp_hseq>
+      <Hsp_midline>N  V+ A   +K L  P N++L++++    LL +  +    V S    + FG  +C L  +L T+  L + + L F++ +R+  IC P     +F+ + AL  ++A W  GI  +   FF ++  +   L     +  C      +  K+    + W      F+ C I+ +SL    +    R  + +    Q  A   K ER+ ++ + + VG + VC++P+       V+     L L  +T P  F          SAC  NPIIY F  + F+  +  ++  +  +  + T</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>336</Hit_num>
+  <Hit_id>sp|Q99MT6.2|</Hit_id>
+  <Hit_def>RecName: Full=Succinate receptor 1; AltName: Full=G-protein coupled receptor 91 [Mus musculus]</Hit_def>
+  <Hit_accession>Q99MT6</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>65.0846</Hsp_bit-score>
+      <Hsp_score>157</Hsp_score>
+      <Hsp_evalue>1.43183e-10</Hsp_evalue>
+      <Hsp_query-from>35</Hsp_query-from>
+      <Hsp_query-to>315</Hsp_query-to>
+      <Hsp_hit-from>20</Hsp_hit-from>
+      <Hsp_hit-to>302</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>71</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>30</Hsp_gaps>
+      <Hsp_align-len>297</Hsp_align-len>
+      <Hsp_qseq>YLQAAFMGTVFLIGFPLNAMVLVATLRYKKLRQPLNYILVNVSFGGF-LLCIFSVFPVFVAS-CNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFGNFRFSSKH-ALTVVLATWTIGIGVSIPPFFGWSRFIPEGLQCSCGPDWYTVGTKYRSESYTWFLFIFCFIVPLSLICFSYTQLLRALKAVAAQQQESATTQKAEREVSRMVVVMVGSFCVCYVPYAAFAMYMVNNRNHGLD-------------LRLVTIPSFFSKSACIYNPIIYCFMNKQFQACIM</Hsp_qseq>
+      <Hsp_hseq>YYLSAFYAIEFIFGLLGNVTVVFGYLFCMKNWNSSNVYLFNLSISDFAFLC---TLPILIKSYANDKGTYGDVLCISNRYVLHTNLYTSILFLTFISMDRYLLMKYPFREHFLQKKEFAILISLAVWAL-VTLEVLPMLTFINSVPKEEGSNC-IDYASSGNPEHNLIYSLCLTLLGFLIPLSVMCFFYYKMVVFLKRRSQQQATALPLDKPQ----RLVVLAVVIFSILFTPYHIMRNLRIASR---LDSWPQGCTQKAIKSIYTLTRPLAFLNSAI--NPIFYFLMGDHYREMLI</Hsp_hseq>
+      <Hsp_midline>Y  +AF    F+ G   N  V+   L   K     N  L N+S   F  LC     P+ + S  N    +G  +C    ++       +   L F++ +RY+++  PF       K  A+ + LA W + + + + P   +   +P+    +C  D+ + G    +  Y+  L +  F++PLS++CF Y +++  LK  + QQ  +    K +    R+VV+ V  F + + PY       + +R   LD             +  +T P  F  SA   NPI Y  M   ++  ++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>340</Hit_num>
+  <Hit_id>sp|P97295.2|</Hit_id>
+  <Hit_def>RecName: Full=Neuropeptide Y receptor type 2; Short=NPY2-R; AltName: Full=NPY-Y2 receptor; Short=Y2 receptor [Mus musculus]</Hit_def>
+  <Hit_accession>P97295</Hit_accession>
+  <Hit_len>381</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>65.0846</Hsp_bit-score>
+      <Hsp_score>157</Hsp_score>
+      <Hsp_evalue>1.75278e-10</Hsp_evalue>
+      <Hsp_query-from>43</Hsp_query-from>
+      <Hsp_query-to>315</Hsp_query-to>
+      <Hsp_hit-from>59</Hsp_hit-from>
+      <Hsp_hit-to>337</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>56</Hsp_identity>
+      <Hsp_positive>126</Hsp_positive>
+      <Hsp_gaps>10</Hsp_gaps>
+      <Hsp_align-len>281</Hsp_align-len>
+      <Hsp_qseq>TVFLIGFPLNAMVLVATLRYKKLRQPLNYILVNVSFGGFLLCIFSVFPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFGNFRFSSKHALTVVLATWTIGIGVSIP----PFFGWSRFIPEGLQCSCGPDWYTVGTKYRSESYTWFLFIFCFIVPLSLICFSYTQLLRALKAVAAQQQESATTQKAEREVSRMVVVMVGSFCVCYVPYAAFAMYMVNNRNHGLDLR----LVTIPSFFSKSACIYNPIIYCFMNKQFQACIM</Hsp_qseq>
+      <Hsp_hseq>SIILLGVVGNSLVIHVVIKFKSMRTVTNFFIANLAVADLLVNTLCLPFTLTYTLMGEWKMGPVLCHLVPYAQGLAVQVSTITLTVIALDRHRCIVYHLES-KISKRISFLIIGLAWGISALLASPLAIFREYSLIEIIPDFEIVACTEKWPGEEKSVYGTVYSLSTLLILYVLPLGIISFSYTRIWSKLRNHVSPGAASDHYHQRRHKMTKMLVCVVVVFAVSWLPLHAFQL-AVDIDSHVLDLKEYKLIFTVFHIIAMCSTFANPLLYGWMNSNYRKAFL</Hsp_hseq>
+      <Hsp_midline>++ L+G   N++V+   +++K +R   N+ + N++    L+    +      +  G +  G  +C L  +   +A  V+  +L  +A +R+  I     + + S + +  ++   W I   ++ P      +     IP+    +C   W           Y+    +  +++PL +I FSYT++   L+   +    S    +   ++++M+V +V  F V ++P  AF +  V+  +H LDL+    + T+    +  +   NP++Y +MN  ++   +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>349</Hit_num>
+  <Hit_id>sp|Q8JZL2.3|</Hit_id>
+  <Hit_def>RecName: Full=Melanin-concentrating hormone receptor 1; Short=MCH receptor 1; Short=MCH-R1; Short=MCHR-1; AltName: Full=G-protein coupled receptor 24; AltName: Full=MCH-1R; Short=MCH1R; Short=MCHR; AltName: Full=SLC-1; AltName: Full=Somatostatin receptor-like protein [Mus musculus]</Hit_def>
+  <Hit_accession>Q8JZL2</Hit_accession>
+  <Hit_len>353</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>63.929</Hsp_bit-score>
+      <Hsp_score>154</Hsp_score>
+      <Hsp_evalue>3.31197e-10</Hsp_evalue>
+      <Hsp_query-from>42</Hsp_query-from>
+      <Hsp_query-to>265</Hsp_query-to>
+      <Hsp_hit-from>48</Hsp_hit-from>
+      <Hsp_hit-to>272</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>56</Hsp_identity>
+      <Hsp_positive>105</Hsp_positive>
+      <Hsp_gaps>27</Hsp_gaps>
+      <Hsp_align-len>238</Hsp_align-len>
+      <Hsp_qseq>GTVFLIGFPLNAMVLVATLRYKKLR---QPLNYILVNVSFGGFLLCIFSVFPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFGNFRFSSKHALTVVLA-TWTIGIGVSIPPFFGWSRFIP-EGLQCSCG-----PD----WYTVGTKYRSESYTWFLFIFCFIVPLSLICFSYTQLLRALKAVAAQQQESATTQKAEREVSRMVVVMVGSFCVCYVPY</Hsp_qseq>
+      <Hsp_hseq>GTICLLGIVGNSTVIFAVVKKSKLHWCSNVPDIFIINLSVVDLLFLLGMPFMIHQLMGNGVWHFGETMCTLITAMDANSQFTSTYILTAMAIDRYLATVHPISSTKFRKPSMATLVICLLWALSF-ISITPVWLYARLIPFPGGAVGCGIRLPNPDTDLYWFTL-----------YQFFLAFALPFVVITAAYVKILQRMTSSVAPASQRSIRLRTKR-VTRTAIAICLVFFVCWAPY</Hsp_hseq>
+      <Hsp_midline>GT+ L+G   N+ V+ A ++  KL       +  ++N+S    L  +   F +     NG + FG  +C L   +   +   + + L  +A +RY+    P  + +F      T+V+   W +   +SI P + ++R IP  G    CG     PD    W+T+           + F   F +P  +I  +Y ++L+ + +  A   + +   + +R V+R  + +   F VC+ PY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>351</Hit_num>
+  <Hit_id>sp|Q8BUD0.1|</Hit_id>
+  <Hit_def>RecName: Full=G-protein coupled receptor 4 [Mus musculus]</Hit_def>
+  <Hit_accession>Q8BUD0</Hit_accession>
+  <Hit_len>365</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>63.929</Hsp_bit-score>
+      <Hsp_score>154</Hsp_score>
+      <Hsp_evalue>3.92234e-10</Hsp_evalue>
+      <Hsp_query-from>47</Hsp_query-from>
+      <Hsp_query-to>316</Hsp_query-to>
+      <Hsp_hit-from>32</Hsp_hit-from>
+      <Hsp_hit-to>301</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>62</Hsp_identity>
+      <Hsp_positive>122</Hsp_positive>
+      <Hsp_gaps>30</Hsp_gaps>
+      <Hsp_align-len>285</Hsp_align-len>
+      <Hsp_qseq>IGFPLNAMVLVATLRYKKLRQPLNYILVNVSFGGFL-LCIFSVFPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFGNFRFSS-KHALTVVLATWTIGIGVSIPPFFGWSRFIPEGLQCSCGPDWYTVGTKYRSESYTWFLFIF----CFIVPLSLICFSYTQLLRALKAVAAQQQESATTQKAER-EVSRMVVVMVGSFCVCYVPYAAF-----AMYMVNNRNHGLDLRLVTI---PSFFSKSACIYNPIIYCFMNKQFQACIMK</Hsp_qseq>
+      <Hsp_hseq>VGLPTNCLALWAAYRQVRQHNELGVYLMNLSIADLLYICTLPLWVDYFLHHDNW-IHGPGSCKLFGFIFYSNIYISIAFLCCISVDRYLAVAHPLRFARLRRVKTAVAVSSVVWATELGANSAPLFHDELFRDRYNHTFCF-------EKFPMERWVAWMNLYRVFVGFLFPWALMLLCYRGILRAV-------QSSVSTERQEKVKIKRLALSLIAIVLVCFAPYHALLLSRSAVYLGRPWDCGFEERVFSAYHSSLAFTSLNCVADPILYCLVNEGARSDVAK</Hsp_hseq>
+      <Hsp_midline>+G P N + L A  R  +    L   L+N+S    L +C   ++  +    + + + G   C L GF+      ++   L  ++ +RY+ +  P    R    K A+ V    W   +G +  P F    F        C         K+  E +  ++ ++     F+ P +L+   Y  +LRA+       Q S +T++ E+ ++ R+ + ++    VC+ PY A      A+Y+    + G + R+ +       F+   C+ +PI+YC +N+  ++ + K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>352</Hit_num>
+  <Hit_id>sp|Q9WV08.1|</Hit_id>
+  <Hit_def>RecName: Full=Apelin receptor; AltName: Full=Angiotensin receptor-like 1; AltName: Full=G-protein coupled receptor APJ; AltName: Full=MSR [Mus musculus]</Hit_def>
+  <Hit_accession>Q9WV08</Hit_accession>
+  <Hit_len>377</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>63.929</Hsp_bit-score>
+      <Hsp_score>154</Hsp_score>
+      <Hsp_evalue>4.0655e-10</Hsp_evalue>
+      <Hsp_query-from>44</Hsp_query-from>
+      <Hsp_query-to>347</Hsp_query-to>
+      <Hsp_hit-from>36</Hsp_hit-from>
+      <Hsp_hit-to>352</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>77</Hsp_identity>
+      <Hsp_positive>133</Hsp_positive>
+      <Hsp_gaps>29</Hsp_gaps>
+      <Hsp_align-len>325</Hsp_align-len>
+      <Hsp_qseq>VFLIGFPLNAMVLVATLRYKKLRQPLNYILVNVSFGGFLLCIFSVFPVFVASCNGYFV--FGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFGNFRFSSKHALTVVLAT-WTIGIGVSIPPFFGWSRFIPE-GLQCSCGPDWYTVGTKYRSESYTWFLFI------FCFIVPLSLICFSYTQLLRALKAVAAQQQESATTQKAEREVSRMVVVMVGSFCVCYVPYAAF-AMYMVNNRNH---GLDLRLVTIPSFFSKSACI------YNPIIYCFMNKQF-QACIMKMVCGKAMTDESDTCSSQKTEVSTVSSTQVGP</Hsp_qseq>
+      <Hsp_hseq>VFLLGTTGNGLVLWTVFRTSREKRRSADIFI-ASLAVADLTFVVTLPLWATYTYREFDWPFGTFSCKLSSYLIFVNMYASVFCLTGLSFDRYLAIVRPVANARLRLRVSGAVATAVLWVLAALLAVPVMVFRSTDASENGTKIQCYMDYSMVATS--NSEWAWEVGLGVSSTAVGFVVPFTIMLTCY--FFIAQTIAGHFRKERIEGLRKRRRLLSIIVVLVVTFALCWMPYHLVKTLYMLGSLLHWPCDFDIFLMNV---FPYCTCISYVNSCLNPFLYAFFDPRFRQACTSMLCCDQSGCKGTPHSSSAEKSASYSSGHSQGP</Hsp_hseq>
+      <Hsp_midline>VFL+G   N +VL    R  + ++    I +  S     L      P++       F   FG   C L  +L  V    + + L  L+F+RY+ I +P  N R   + +  V  A  W +   +++P     S    E G +  C  D+  V T   +  + W + +        F+VP +++   Y     A       ++E     +  R +  ++VV+V +F +C++PY     +YM+ +  H     D+ L+ +   F    CI       NP +Y F + +F QAC   + C ++    +   SS +   S  S    GP</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>357</Hit_num>
+  <Hit_id>sp|P55086.1|</Hit_id>
+  <Hit_def>RecName: Full=Proteinase-activated receptor 2; Short=PAR-2; AltName: Full=Coagulation factor II receptor-like 1; AltName: Full=G-protein coupled receptor 11; AltName: Full=Thrombin receptor-like 1; Flags: Precursor [Mus musculus]</Hit_def>
+  <Hit_accession>P55086</Hit_accession>
+  <Hit_len>399</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>63.5438</Hsp_bit-score>
+      <Hsp_score>153</Hsp_score>
+      <Hsp_evalue>5.23041e-10</Hsp_evalue>
+      <Hsp_query-from>44</Hsp_query-from>
+      <Hsp_query-to>311</Hsp_query-to>
+      <Hsp_hit-from>87</Hsp_hit-from>
+      <Hsp_hit-to>354</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>70</Hsp_identity>
+      <Hsp_positive>127</Hsp_positive>
+      <Hsp_gaps>30</Hsp_gaps>
+      <Hsp_align-len>283</Hsp_align-len>
+      <Hsp_qseq>VFLIGFPLNAMVLVATLRYKKLRQPLNYILVNVSFGGFLLCIFSVFPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTG---WSLAF---LAFERYIVICKPFGNFRFSSKHALTVVLATWTIGIGVSIPPF-FGWSRFIPEGLQCSCG---PDWYTVGTKYRSESYTWFLFIFCFIVPLSLICFSYTQLLRALKAVAAQQQESATTQKAEREVSRMVVVMVGSFCVCYVP-----YAAFAMYMVNNRNHGLDLRLVTIPSFFSKSACIYNPIIYCFMNKQFQ</Hsp_qseq>
+      <Hsp_hseq>VFVIGLPSNGMALWIFLFRTKKKHPAVIYMANLALADLLSVIW--FPLKIS----YHLHGNNWVYGEALCKVLIGFFYGNMYCSILFMTCLSVQRYWVIVNPMGHPRKKANIAVGVSLAIWLLIFLVTIPLYVMKQTIYIPALNITTCHDVLPEEVLVGDMF---NYFLSLAIGVFLFPALLTASAYVLMIKTLRSSAMDEHSEKKRQRA----IRLIITVLAMYFICFAPSNLLLVVHYFLIKTQRQSHVYALYLVAL-CLSTLNSCI-DPFVYYFVSKDFR</Hsp_hseq>
+      <Hsp_midline>VF+IG P N M L   L   K + P    + N++    L  I+  FP+ ++    Y + G +    E     + G   G    S+ F   L+ +RY VI  P G+ R  +  A+ V LA W +   V+IP +    + +IP     +C    P+   VG  +   +Y   L I  F+ P  L   +Y  +++ L++ A  +      Q+A     R+++ ++  + +C+ P        + +     ++H   L LV +    + ++CI +P +Y F++K F+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>367</Hit_num>
+  <Hit_id>sp|O54689.1|</Hit_id>
+  <Hit_def>RecName: Full=C-C chemokine receptor type 6; Short=C-C CKR-6; Short=CC-CKR-6; Short=CCR-6; AltName: Full=KY411; AltName: CD_antigen=CD196 [Mus musculus]</Hit_def>
+  <Hit_accession>O54689</Hit_accession>
+  <Hit_len>367</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>62.7734</Hsp_bit-score>
+      <Hsp_score>151</Hsp_score>
+      <Hsp_evalue>8.49332e-10</Hsp_evalue>
+      <Hsp_query-from>48</Hsp_query-from>
+      <Hsp_query-to>318</Hsp_query-to>
+      <Hsp_hit-from>52</Hsp_hit-from>
+      <Hsp_hit-to>323</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>73</Hsp_identity>
+      <Hsp_positive>120</Hsp_positive>
+      <Hsp_gaps>33</Hsp_gaps>
+      <Hsp_align-len>288</Hsp_align-len>
+      <Hsp_qseq>GFPLNAMVLVATLRYKKLRQPLNYILVNVSFGGFLLCIFSVFPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFGNFRFSSK---HALTVVLATWTIGIGVSIPPFFGWSRFIPEGLQCSCGPDWYTVGTKYRSESYTWFLF------IFCFIVPLSLICFSYTQLLRALKAVAAQQQESATTQKAEREVSRMVVVMVGSFCVCYVPY-AAFAMYMVNNRNHGLDLRLVTIPSFFSKSA-------CIYNPIIYCFMNKQFQACIMKMV</Hsp_qseq>
+      <Hsp_hseq>GLLGNIMVVMTFAFYKKARSMTDVYLLNMAITDILFVLTLPFWAVTHATNTW-VFSDALCKLMKGTYAVNFNCGMLLLACISMDRYIAIVQATKSFRVRSRTLTHSKVICVAVWFISIIISSPTFIFNKKYELQDRDV-CEPRYRSV-----SEPITWKLLGMGLELFFGFFTPLLFMVFCYLFIIKTL----VQAQNS----KRHRAI-RVVIAVVLVFLACQIPHNMVLLVTAVNTGKVGRSCSTEKVLAYTRNVAEVLAFLHCCLNPVLYAFIGQKFRNYFMKIM</Hsp_hseq>
+      <Hsp_midline>G   N MV++    YKK R   +  L+N++    L  +   F     + N + VF   +C L      V        LA ++ +RYI I +   +FR  S+   H+  + +A W I I +S P F    ++  +     C P + +V     SE  TW L        F F  PL  + F Y  +++ L     Q Q S    K  R + R+V+ +V  F  C +P+     +  VN    G       + ++    A       C  NP++Y F+ ++F+   MK++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>374</Hit_num>
+  <Hit_id>sp|Q91ZZ5.2|</Hit_id>
+  <Hit_def>RecName: Full=Relaxin receptor 2; AltName: Full=G-protein coupled receptor 106; AltName: Full=G-protein coupled receptor affecting testicular descent; AltName: Full=Leucine-rich repeat-containing G-protein coupled receptor 8; AltName: Full=Relaxin family peptide receptor 2 [Mus musculus]</Hit_def>
+  <Hit_accession>Q91ZZ5</Hit_accession>
+  <Hit_len>737</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>63.1586</Hsp_bit-score>
+      <Hsp_score>152</Hsp_score>
+      <Hsp_evalue>1.26768e-09</Hsp_evalue>
+      <Hsp_query-from>107</Hsp_query-from>
+      <Hsp_query-to>318</Hsp_query-to>
+      <Hsp_hit-from>478</Hsp_hit-from>
+      <Hsp_hit-to>689</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>53</Hsp_identity>
+      <Hsp_positive>88</Hsp_positive>
+      <Hsp_gaps>18</Hsp_gaps>
+      <Hsp_align-len>221</Hsp_align-len>
+      <Hsp_qseq>CALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFGNFRFSSKHALTVVLATWTIGIGVSIPPFFGWSRFIP-EGLQCSCGPDWYTVGTKYRSESYTWFLFIFCFIVPLSLICFSYTQLLRALKAVAAQQQESATTQKAEREVSRMVVVMVGSFCVCYVPYAAFAMYMVNNRNHGLDLRLVTIPS--------FFSKSACIYNPIIYCFMNKQFQACIMKMV</Hsp_qseq>
+      <Hsp_hseq>CRLLGFLATLSTEVSVLLLTFLTLEKFLVIVFPFSNLRLGKRQTAVALASIWVVGFLIAAVPFTREDYFGNFYGKNGVCFPLHYDQAEDFGSRGYSLGIFLGVNLLAFLVIVISYVTMFCSIHKTALQTAEVRSHIGKEVAVANRFFFIVFSDAICWIPVFVVKI---------LSLLQVEIPGTITSWIVVFFLPVNSALNPILYTLTTSFFKDKLKQLL</Hsp_hseq>
+      <Hsp_midline>C L GFL T++  V+   L FL  E+++VI  PF N R   +     + + W +G  ++  PF     F    G    C P  Y     + S  Y+  +F+   ++   +I  SY  +  ++   A Q  E  +    E  V+     +V S  +C++P     +         L L  V IP         FF       NPI+Y      F+  + +++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>381</Hit_num>
+  <Hit_id>sp|P48302.1|</Hit_id>
+  <Hit_def>RecName: Full=Endothelin receptor type B; Short=ET-B; Short=ET-BR; AltName: Full=Endothelin receptor non-selective type; Flags: Precursor [Mus musculus]</Hit_def>
+  <Hit_accession>P48302</Hit_accession>
+  <Hit_len>442</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>62.3882</Hsp_bit-score>
+      <Hsp_score>150</Hsp_score>
+      <Hsp_evalue>1.49722e-09</Hsp_evalue>
+      <Hsp_query-from>35</Hsp_query-from>
+      <Hsp_query-to>334</Hsp_query-to>
+      <Hsp_hit-from>102</Hsp_hit-from>
+      <Hsp_hit-to>417</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>72</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>26</Hsp_gaps>
+      <Hsp_align-len>321</Hsp_align-len>
+      <Hsp_qseq>YLQAAFMGTVFLIGFPLNAMVLVATLRYKKLRQPLNYILVNVSFGGFLLCIFSVFPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVIC-----KPFGNFRFSSKHALTVVLATWTIGIGVSIPPFFGW----SRFIPEGLQ-CSCGPDWYTVGTKYRSESYTWFLFIFCFIVPLSLICFSYTQLL-RALKAVAAQQQESATTQKAEREVSRMVVVMVGSFCVCYVPYA-----AFAMYMVNNRNHGLDLRLVTIPSFF-----SKSACIYNPIIYCFMNKQFQACIMKMVCGKAMTDESDTCSSQK</Hsp_qseq>
+      <Hsp_hseq>YINTIVSCLVFVLGIIGNSTLLRIIYKNKCMRNGPNILIASLALGDLLHIIIDIPINTYKLLAEDWPFGAEMCKLVPFIQKASVGITVLSLCALSIDRYRAVASWSRIKGIGVPKWT---AVEIVL-IWVVSVVLAVPEAIGFDMITSDYKGKPLRVCMLNPFQKTAFMQFYKTAKDWWLFSFYFCLPLAITAVFYTLMTCEMLRKKSGMQIALNDHLKQRREVAKTVFCLVLVFALCWLPLHLSRILKLTLYDQSNPHRCELLSFLLVLDYIGINMASLNSCI-NPIALYLVSKRFKNCFKSCLCCWCQTFEEKQSLEEK</Hsp_hseq>
+      <Hsp_midline>Y+       VF++G   N+ +L    + K +R   N ++ +++ G  L  I  +           + FG  +C L  F+   +  +T  SL  L+ +RY  +      K  G  +++   A+ +VL  W + + +++P   G+    S +  + L+ C   P   T   ++   +  W+LF F F +PL++    YT +    L+  +  Q       K  REV++ V  +V  F +C++P          +Y  +N +    L  + +  +      S ++CI NPI    ++K+F+ C    +C    T E      +K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>387</Hit_num>
+  <Hit_id>sp|Q8K458.1|</Hit_id>
+  <Hit_def>RecName: Full=Prokineticin receptor 2; Short=PK-R2; AltName: Full=G-protein coupled receptor 73-like 1 [Mus musculus]</Hit_def>
+  <Hit_accession>Q8K458</Hit_accession>
+  <Hit_len>381</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>62.003</Hsp_bit-score>
+      <Hsp_score>149</Hsp_score>
+      <Hsp_evalue>1.63807e-09</Hsp_evalue>
+      <Hsp_query-from>17</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>26</Hsp_hit-from>
+      <Hsp_hit-to>293</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>64</Hsp_identity>
+      <Hsp_positive>122</Hsp_positive>
+      <Hsp_gaps>24</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>SVGPWD---GPQYHIAPVWAFYLQAAFMGTVFLIGFPL-----NAMVLVATLRYKKLRQPLNYILVNVSFGGFLL----CIFSVFPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFGNFRFSSKHALTVVLATWTIGIGVSIPPFFGWSR----FIPEGLQCSCGPDWYTVGTKYRSESYTWFLFIFCFIVPLSLICFSYTQLLRAL--KAVAAQQQESATTQ-KAEREVSRMVVVMVGSFCVCYVPYAAFAM</Hsp_qseq>
+      <Hsp_hseq>SYGDYDLPLGEDEDVTKTQTFFAAKIVIG-VALAGIMLVCGIGNFVFIAALARYKKLRNLTNLLIANLAISDFLVAIVCCPFEMDYYVVRQLS--WAHGHVLCASVNYLRTVSLYVSTNALLAIAIDRYLAIVHPLKP-RMNYQTASFLIALVWMVSILIAVPSAYFTTETILVIVKNQEKIFCGQIW-SVDQQLYYKSYFLFVFGLEFVGPVVTMTLCYARISQELWFKAVPGFQTEQIRKRLRCRRKTVLLLMGILTAYVLCWAPFYGFTI</Hsp_hseq>
+      <Hsp_midline>S G +D   G    +     F+     +G V L G  L     N + + A  RYKKLR   N ++ N++   FL+    C F +    V   +  +  G  +CA   +L TV+  V+  +L  +A +RY+ I  P    R + + A  ++   W + I +++P  +  +      +    +  CG  W +V  +   +SY  F+F   F+ P+  +   Y ++ + L  KAV   Q E    + +  R+   +++ ++ ++ +C+ P+  F +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>389</Hit_num>
+  <Hit_id>sp|P49681.2|</Hit_id>
+  <Hit_def>RecName: Full=Neuropeptides B/W receptor type 1; AltName: Full=G-protein coupled receptor 7 [Mus musculus]</Hit_def>
+  <Hit_accession>P49681</Hit_accession>
+  <Hit_len>329</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>61.6178</Hsp_bit-score>
+      <Hsp_score>148</Hsp_score>
+      <Hsp_evalue>1.87258e-09</Hsp_evalue>
+      <Hsp_query-from>42</Hsp_query-from>
+      <Hsp_query-to>318</Hsp_query-to>
+      <Hsp_hit-from>47</Hsp_hit-from>
+      <Hsp_hit-to>324</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>64</Hsp_identity>
+      <Hsp_positive>128</Hsp_positive>
+      <Hsp_gaps>23</Hsp_gaps>
+      <Hsp_align-len>289</Hsp_align-len>
+      <Hsp_qseq>GTVFLIGFPLNAMVLVATLRYKKLRQPLNYILVNVSFGGFLLCIFSVFPVFVAS-CNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFGNFRFSSK---HALTVVLATWTIGIGVSIPPFFGWSRFIPEGLQCSCGPDWYTVGTKYRSESYTW-----FLFIFCFIVPLSLICFSYTQLLRALKAVAAQQQESATTQKAEREVSRMVVVMVGSFCVCYVPYAAFAMYMVNNRNHGLDLRLVT---IPSFFSKSACIYNPIIYCFMNKQFQACIMKMV</Hsp_qseq>
+      <Hsp_hseq>GVICAVGLAGNSAVLYVLLRTPRMKTVTNVFILNLAIADELFTL--VLPINIADFLLRRWPFGEVMCKLIVAVDQYNTFSSLYFLAVMSADRYLVVLATAESRRVSGRTYGAARAVSLAVWAL-VTLVVLPFAVFARLDEEQGRRQC------VLVFPQPEAFWWRASRLYTLVLGFAIPVTTICALYTTLLCRLRAIQLDSHAKA-LDRAKKRVTLLVAAILAVCLLCWTPYHLSTIVALTTDLPQTPLVIGISYFITSLSYANSCL-NPFLYAFLDDSFRRSLRQLV</Hsp_hseq>
+      <Hsp_midline>G +  +G   N+ VL   LR  +++   N  ++N++    L  +  V P+ +A      + FG  +C L   +       + + LA ++ +RY+V+     + R S +    A  V LA W + + + + PF  ++R   E  +  C      V    + E++ W     +  +  F +P++ IC  YT LL  L+A+       A   +A++ V+ +V  ++    +C+ PY    +  +        L +     I S    ++C+ NP +Y F++  F+  + ++V</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>394</Hit_num>
+  <Hit_id>sp|P42866.1|</Hit_id>
+  <Hit_def>RecName: Full=Mu-type opioid receptor; Short=M-OR-1; Short=MOR-1 [Mus musculus]</Hit_def>
+  <Hit_accession>P42866</Hit_accession>
+  <Hit_len>398</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>61.6178</Hsp_bit-score>
+      <Hsp_score>148</Hsp_score>
+      <Hsp_evalue>2.30113e-09</Hsp_evalue>
+      <Hsp_query-from>39</Hsp_query-from>
+      <Hsp_query-to>343</Hsp_query-to>
+      <Hsp_hit-from>73</Hsp_hit-from>
+      <Hsp_hit-to>376</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>72</Hsp_identity>
+      <Hsp_positive>133</Hsp_positive>
+      <Hsp_gaps>37</Hsp_gaps>
+      <Hsp_align-len>323</Hsp_align-len>
+      <Hsp_qseq>AFMGTVFLIGFPLNAMVLVATLRYKKLRQPLNYILVNVSFGGFLLCIFSVFPV-FVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFGNFRFSS-KHALTVVLATWTIGIGVSIPPFF-GWSRFIPEGLQCS---CGPDWYTVGTKYRSESYTWFLFIFCFIVPLSLICFSYTQLLRALKAVAAQQQESATTQKAEREVSRMVVVMVGSFCVCYVPYAAFAMYMVNNRNHGLDLRLVTIPSFFSKSA----CI--------YNPIIYCFMNKQFQACIMKMVCGKAMTDESDTCSSQKTEVSTVSST</Hsp_qseq>
+      <Hsp_hseq>ALYSIVCVVGLFGNFLVMYVIVRYTKMKTATNIYIFNLALADALAT--STLPFQSVNYLMGTWPFGNILCKIVISIDYYNMFTSIFTLCTMSVDRYIAVCHPVKALDFRTPRNAKIVNVCNWILSSAIGLPVMFMATTKYRQGSIDCTLTFSHPTWY------WENLLKICVFIFAFIMPVLIITVCYGLMILRLKSVR-MLSGSKEKDRNLRRITRMVLVVVAVFIVCWTPIHIYVIIKA----------LITIPETTFQTVSWHFCIALGYTNSCLNPVLYAFLDENFKRCFREFCIPTSSTIEQQNSARIRQNTREHPST</Hsp_hseq>
+      <Hsp_midline>A    V ++G   N +V+   +RY K++   N  + N++    L    S  P   V    G + FG  +C +   +       + ++L  ++ +RYI +C P     F + ++A  V +  W +   + +P  F   +++    + C+     P WY              +FIF FI+P+ +I   Y  ++  LK+V      S    +  R ++RMV+V+V  F VC+ P   + +             L+TIP    ++     CI         NP++Y F+++ F+ C  +     + T E    +  +       ST</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>400</Hit_num>
+  <Hit_id>sp|Q9EQQ4.1|</Hit_id>
+  <Hit_def>RecName: Full=Probable G-protein coupled receptor 45; AltName: Full=PSP24-1; AltName: Full=PSP24-alpha [Mus musculus]</Hit_def>
+  <Hit_accession>Q9EQQ4</Hit_accession>
+  <Hit_len>373</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>61.6178</Hsp_bit-score>
+      <Hsp_score>148</Hsp_score>
+      <Hsp_evalue>2.57979e-09</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>314</Hsp_query-to>
+      <Hsp_hit-from>8</Hsp_hit-from>
+      <Hsp_hit-to>337</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>74</Hsp_identity>
+      <Hsp_positive>146</Hsp_positive>
+      <Hsp_gaps>57</Hsp_gaps>
+      <Hsp_align-len>349</Hsp_align-len>
+      <Hsp_qseq>MSEEEFYLFKNISSVGPWDGPQYHIAPVWAFYLQAAFMGTVFLIGFPLNAMVLVATLRYKKLRQPLNYILVNVSFGGFLLCIFSVFPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFGNFRFSSKHALTVVLATWTIGIGVSIPPFFGWSRF-IP-EGLQCSCGPDWYTVGTKYRSE-SYTWFLFIFCFIVPLSLICFSYTQLLRALK--AVAAQQQESATTQK-----------------------AEREVSRMVVVMVGSFCVCYVPYAAFAMYMVNNRNHGLDLRLVTIPSFFSKSAC---------IYNPIIYCFMNKQF-QACI</Hsp_qseq>
+      <Hsp_hseq>MGTYEHLLLNVSNTLDPGDTPLS--APLRISL--AIMMLLMIVVGFLGNTVVCIIVYQRPAMRSAINLLLATLAFSDIMLSLCCMPFTAITLITVRWHFGDHFCRLSATLYWFFVLEGVAILLIISVDRFLIIVQ--RQDKLNPRRAKMIIAASWVLSFCISAPSFTGWTFMEVPARAPQCVLG------YTEFPAERAYVVTLVVAVFFAPFGVMLCSYLCILNTVRKNAVRVHNQSDSLDLRQLTGAGLRRLRRQQQQASLDLSFKTKAFTTILILFVG-FSLCWLPHSVYSLLSAFSR------RFYYSASFYTTSTCVLWLSYLKSVFNPIVYCWRIKKFREACI</Hsp_hseq>
+      <Hsp_midline>M   E  L    +++ P D P    AP+      A  M  + ++GF  N +V +   +   +R  +N +L  ++F   +L +  +    +      + FG H C L   L     L     L  ++ +R+++I +     + + + A  ++ A+W +   +S P F GW+   +P    QC  G       T++ +E +Y   L +  F  P  ++  SY  +L  ++  AV    Q  +   +                         +  + ++++ VG F +C++P++ +++    +R      R     SF++ S C         ++NPI+YC+  K+F +ACI</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>401</Hit_num>
+  <Hit_id>sp|Q8BZ39.1|</Hit_id>
+  <Hit_def>RecName: Full=Neuromedin-U receptor 2; Short=NMU-R2 [Mus musculus]</Hit_def>
+  <Hit_accession>Q8BZ39</Hit_accession>
+  <Hit_len>395</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>61.6178</Hsp_bit-score>
+      <Hsp_score>148</Hsp_score>
+      <Hsp_evalue>2.68541e-09</Hsp_evalue>
+      <Hsp_query-from>44</Hsp_query-from>
+      <Hsp_query-to>318</Hsp_query-to>
+      <Hsp_hit-from>47</Hsp_hit-from>
+      <Hsp_hit-to>334</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>67</Hsp_identity>
+      <Hsp_positive>131</Hsp_positive>
+      <Hsp_gaps>27</Hsp_gaps>
+      <Hsp_align-len>295</Hsp_align-len>
+      <Hsp_qseq>VFLIGFPLNAMVLVATLRYKKLRQPLNYILVNVSFGGFLLCIFSV-FPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPF-GNFRFSSKHALTVVLATWTIGIGVSIPPF---------FGWSRFIPEGLQCSCGPDWYTVGTKYRSESYTWFLFIFCFIVPLSLICFSYTQLLRALKAVAAQQQESATT---QKAEREVSRMVVVMVGSFCVCYVPYAAFAMY--MVNNRNHGL----DLRLVTIPSFFSKSACIYNPIIYCFMNKQFQACIMKMV</Hsp_qseq>
+      <Hsp_hseq>IFVVGVIGNLLVCLVIARHQTLKTPTNYYLFSLAVSDLLVLLLGMPLEVYELWHNYPFLFGPVGCYFKTALFETVCFASILSVTTVSIERYVAIVHPFRAKLESTRRRALRILSLVWSFSVVFSLPNTSIHGIKFQQFPNGSSVPGSATCTVTKPIWVYNFIIQATS---FLF---YILPMTLISVLYYLMGLRLKRDESLEADKVTVNIHRPSRKSVTKMLFVLVLVFAICWTPFHVDRLFFSFVDEWTESLAAVFNLIHVVSGVFFYLSSAV-NPIIYNLLSRRFRAAFRNVV</Hsp_hseq>
+      <Hsp_midline>+F++G   N +V +   R++ L+ P NY L +++    L+ +  +   V+    N  F+FG   C  +  L       +  S+  ++ ERY+ I  PF      + + AL ++   W+  +  S+P           F     +P    C+     +      ++ S   FLF   +I+P++LI   Y  +   LK   + + +  T    + + + V++M+ V+V  F +C+ P+    ++   V+     L    +L  V    FF  S+ + NPIIY  ++++F+A    +V</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>412</Hit_num>
+  <Hit_id>sp|P30731.2|</Hit_id>
+  <Hit_def>RecName: Full=G-protein coupled receptor 83; AltName: Full=Glucocorticoid-induced receptor; Flags: Precursor [Mus musculus]</Hit_def>
+  <Hit_accession>P30731</Hit_accession>
+  <Hit_len>423</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>61.2326</Hsp_bit-score>
+      <Hsp_score>147</Hsp_score>
+      <Hsp_evalue>3.67224e-09</Hsp_evalue>
+      <Hsp_query-from>45</Hsp_query-from>
+      <Hsp_query-to>332</Hsp_query-to>
+      <Hsp_hit-from>80</Hsp_hit-from>
+      <Hsp_hit-to>376</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>66</Hsp_identity>
+      <Hsp_positive>129</Hsp_positive>
+      <Hsp_gaps>27</Hsp_gaps>
+      <Hsp_align-len>306</Hsp_align-len>
+      <Hsp_qseq>FLIGFPLNAMVLVATLRYK--KLRQPLNYILVNVSFGGFLLCIFSVFPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFGNFRFSSKHALTVVLATWTIGIGVSIPP-------FFGWSRFIPEGLQCSCGPDWYTVGT---KYRSESYTWFLFIFCFIVPLSLICFSYTQLLRAL----KAVAAQQQESATTQKAEREVSRMVVVMVGSFCVCYVPYAAFAMYMVNNRNHGLDLRLVTIPSFFSKSACIYNPIIYCFMNKQFQACIMKMV--CGKAMTDESDTCSS</Hsp_qseq>
+      <Hsp_hseq>FTIVFSLFGNVLVCHVIFKNQRMHSATSLFIVNLAVADIMITLLNTPFTLVRFVNSTWVFGKGMCHVSRFAQYCSLHVSALTLTAIAVDRHQVIMHPLKP-RISITKGVIYIAVIWVMATFFSLPHAICQKLFTFKYSEDIVRSL---CLPDFPEPADLFWKYLDLA----TFILLYLLPLFIISVAYARVAKKLWLCNTIGDVTTEQYLALRRKKKTTVKMLVLVVVLFALCWFPLNCYVLLLSSKAIHTNNALYFAFHWFAMSSTC-YNPFIYCWLNENFRVELKALLSMCQRPPKPQEDRLPS</Hsp_hseq>
+      <Hsp_midline>F I F L   VLV  + +K  ++    +  +VN++    ++ + +     V   N  +VFG+ +C +  F    +  V+  +L  +A +R+ VI  P    R S    +  +   W +    S+P         F +S  I   L   C PD+        KY   +     FI  +++PL +I  +Y ++ + L           ++    ++ ++   +M+V++V  F +C+ P   + + + +   H  +        F   S C YNP IYC++N+ F+  +  ++  C +    + D   S</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>414</Hit_num>
+  <Hit_id>sp|P56479.1|</Hit_id>
+  <Hit_def>RecName: Full=Galanin receptor type 1; Short=GAL1-R; Short=GALR-1 [Mus musculus]</Hit_def>
+  <Hit_accession>P56479</Hit_accession>
+  <Hit_len>348</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>60.8474</Hsp_bit-score>
+      <Hsp_score>146</Hsp_score>
+      <Hsp_evalue>3.97912e-09</Hsp_evalue>
+      <Hsp_query-from>42</Hsp_query-from>
+      <Hsp_query-to>345</Hsp_query-to>
+      <Hsp_hit-from>41</Hsp_hit-from>
+      <Hsp_hit-to>348</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>74</Hsp_identity>
+      <Hsp_positive>142</Hsp_positive>
+      <Hsp_gaps>28</Hsp_gaps>
+      <Hsp_align-len>320</Hsp_align-len>
+      <Hsp_qseq>GTVFLIGFPLNAMVLVATLRYK--KLRQPLNYILVNVSFGGFLLCIFSV-FPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFGNFRFSSK-HALTVVLATWTIGIGVSIPPFFGWSRFIPEGLQCSCGPDWYTVGTKYRSESYTWFLFIFCFIVPLSLICFSYTQLLRALKAVAAQQQESATTQKAEREVSRMVVVMVGSFCVCYVPYAAFAMYMVNNRNHGLDLRLVTIPSFFSK--------SACIYNPIIYCFMNKQFQACIMKM----VCGKAMTDESDTCSSQKTEVSTVSSTQV</Hsp_qseq>
+      <Hsp_hseq>GLIFAMGVLGNSLVITVLARSKPGKPRSTTNLFILNLSIADLAYLLFCIPFQATVYALPTW-VLGAFICKFIHYFFTVSMLVSIFTLAAMSVDRYVAIVHSRRSSSLRVSRNALLGVGFIWALSIAMASPVAYHQRLFHRDSNQTFCWEQW---PNKLHKKAYVVCTFVFGYLLPLLLICFCYAKVLNHLH--KKLKNMSKKSEASKKKTAQTVLVVVVVFGISWLPHHVVHLWA------EFGAFPLTPASFFFRITAHCLAYSNSSVNPIIYAFLSENFRKAYKQVFKCHVCDESPRSETKENKSRMDTPPSTNCTHV</Hsp_hseq>
+      <Hsp_midline>G +F +G   N++V+    R K  K R   N  ++N+S       +F + F   V +   + V G  +C    +  TV+ LV+ ++LA ++ +RY+ I     +       +AL  V   W + I ++ P  +    F  +  Q  C   W     K   ++Y    F+F +++PL LICF Y ++L  L      +  S  ++ ++++ ++ V+V+V  F + ++P+    ++             +T  SFF +        S    NPIIY F+++ F+    ++    VC ++   E+    S+     + + T V</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>416</Hit_num>
+  <Hit_id>sp|Q9EQ31.1|</Hit_id>
+  <Hit_def>RecName: Full=Lysophosphatidic acid receptor 3; Short=LPA receptor 3; Short=LPA-3; AltName: Full=Lysophosphatidic acid receptor Edg-7 [Mus musculus]</Hit_def>
+  <Hit_accession>Q9EQ31</Hit_accession>
+  <Hit_len>354</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>60.4622</Hsp_bit-score>
+      <Hsp_score>145</Hsp_score>
+      <Hsp_evalue>5.20933e-09</Hsp_evalue>
+      <Hsp_query-from>9</Hsp_query-from>
+      <Hsp_query-to>346</Hsp_query-to>
+      <Hsp_hit-from>13</Hsp_hit-from>
+      <Hsp_hit-to>335</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>74</Hsp_identity>
+      <Hsp_positive>136</Hsp_positive>
+      <Hsp_gaps>41</Hsp_gaps>
+      <Hsp_align-len>351</Hsp_align-len>
+      <Hsp_qseq>FYLFKNISSVGPWDGPQYHIAPVWAFYLQAAFMGTVF-LIGFPLNAMVLVATLRYKKLRQPLNYILVNVSFGGFLLCIFSVFPVF-------VASCNGYFVFGRHVCALEGFLGT--VAGLVTGWSLAFLAFERYIVICKPFGNFRFSSKHALTVVLATWTIGIGVSIPPFFGWSRFIPEGLQCSCGPDWYTVGTKYRSESYTWFLFI---FCFIVPLSLICFSYTQLLRALKAVAAQQQESATTQKAEREVSRMVVVMVGSFCVCYVPYAAFAMYMVNNRNHGLDLRLVTIPSFFSKSACIYNPIIYCFMNKQFQACIMKMVCGKAMTDESDTCSSQKTEVSTVSSTQVG</Hsp_qseq>
+      <Hsp_hseq>FYNRSNTDTADEWTGTKLVIVLC---------VGTFFCLFIFFSNSLVIAAVITNRKFHFPFYYLLANLAAADFFAGIAYVFLMFNTGPVSKTLTVNRWFL-------RQGLLDTSLTASLA---NLLVIAVERHMSIMRMRVHSNLTKKRVTLLILLVWAIAIFMGAVPTLGWN--------CLCNISACSSLAPIYSRSYLIFWTVSNLLAFFIMVAVYVRIYMYVKRKTNVLSPHTSGSISRRRAPMKLMKTVMTVLGAFVVCWTPGLVVLLLDGLNCKQCNVQHVKRWFLLLALLNSVMNPIIYSYKDEDMYNTMRKMICC-ALQDSNTERRPSRNPSTIHSRSETG</Hsp_hseq>
+      <Hsp_midline>FY   N  +   W G +  I            +GT F L  F  N++V+ A +  +K   P  Y+L N++   F   I  VF +F         + N +F+        +G L T   A L    +L  +A ER++ I +   +   + K    ++L  W I I +   P  GW+        C C     +      S SY  F  +     F + +++    Y  + R    ++     S + ++A  ++ + V+ ++G+F VC+ P     +    N        +       +    + NPIIY + ++     + KM+C  A+ D +      +   +  S ++ G</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>428</Hit_num>
+  <Hit_id>sp|P35363.1|</Hit_id>
+  <Hit_def>RecName: Full=5-hydroxytryptamine receptor 2A; Short=5-HT-2; Short=5-HT-2A; AltName: Full=Serotonin receptor 2A [Mus musculus]</Hit_def>
+  <Hit_accession>P35363</Hit_accession>
+  <Hit_len>471</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>60.4622</Hsp_bit-score>
+      <Hsp_score>145</Hsp_score>
+      <Hsp_evalue>7.67046e-09</Hsp_evalue>
+      <Hsp_query-from>38</Hsp_query-from>
+      <Hsp_query-to>232</Hsp_query-to>
+      <Hsp_hit-from>77</Hsp_hit-from>
+      <Hsp_hit-to>266</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>54</Hsp_identity>
+      <Hsp_positive>97</Hsp_positive>
+      <Hsp_gaps>21</Hsp_gaps>
+      <Hsp_align-len>203</Hsp_align-len>
+      <Hsp_qseq>AAFMGTVFLI-GFPLNAMVLVATLRYKKLRQPLNYILVNVSFGGFLLCIFSVFPV-FVASCNGY-FVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFGNFRFSSK-HALTVVLATWTIGIGVSIP-PFFGW---SRFIPEGLQCSCGPDWYTVGTKYRSESYTWFLFIFCFIVPLSLICFSYTQLLRALKAVAA</Hsp_qseq>
+      <Hsp_hseq>SALLTTVVIILTIAGNILVIMAVSLEKKLQNATNYFLMSLAIADMLLG-FLVMPVSMLTILYGYRWPLPSKLCAVWIYLDVLFSTASIMHLCAISLDRYVAIQNPIHHSRFNSRTKAFLKIIAVWTISVGISMPIPVFGLQDDSKVFKEG-SCLLADDNFVLIGSF-----------VAFFIPLTIMVITYFLTIKSLQKEAT</Hsp_hseq>
+      <Hsp_midline>+A + TV +I     N +V++A    KKL+   NY L++++    LL  F V PV  +    GY +     +CA+  +L  +    +   L  ++ +RY+ I  P  + RF+S+  A   ++A WTI +G+S+P P FG    S+   EG  C    D + +   +             F +PL+++  +Y   +++L+  A </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>431</Hit_num>
+  <Hit_id>sp|Q8BFQ3.1|</Hit_id>
+  <Hit_def>RecName: Full=Ovarian cancer G-protein coupled receptor 1; AltName: Full=G-protein coupled receptor 68; AltName: Full=Sphingosylphosphorylcholine receptor [Mus musculus]</Hit_def>
+  <Hit_accession>Q8BFQ3</Hit_accession>
+  <Hit_len>365</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>59.6918</Hsp_bit-score>
+      <Hsp_score>143</Hsp_score>
+      <Hsp_evalue>9.09e-09</Hsp_evalue>
+      <Hsp_query-from>48</Hsp_query-from>
+      <Hsp_query-to>321</Hsp_query-to>
+      <Hsp_hit-from>35</Hsp_hit-from>
+      <Hsp_hit-to>312</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>69</Hsp_identity>
+      <Hsp_positive>122</Hsp_positive>
+      <Hsp_gaps>26</Hsp_gaps>
+      <Hsp_align-len>289</Hsp_align-len>
+      <Hsp_qseq>GFPLNAMVLVATLRYKKLRQPLNYILVNVSFGG-FLLCIFSVFPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFGNFRFSS-KHALTVVLATWTIGIGVSIPPFFGWSRFIPEGLQCSCGPDWYTVGTKYRSESYTWFLFIFCFIVPLSLICFSYTQLLRALKAVAAQQQESATTQKAERE-VSRMVVVMVGSFCVCYVPYAAFAMYM-VNNRNHGLDLRLVTIPSF---FSKSACIYNPIIYCFMNKQFQ--------ACIMKMVCGK</Hsp_qseq>
+      <Hsp_hseq>GFPANCLSLYFGYLQIKARNELGVYLCNLTIADLFYICSLPFWLQYVLQHDDW-SHGDLSCQVCGILLYENIYISVGFLCCISIDRYLAVAHPFRFHQFRTLKAAVGVSVLIWAKELLTSIY-FLNHKEVIEDEDQHRVCFEHYPIQAWQRSINYYRFLVGFLF--PICLLLASYQGILRAVR-------RSHGTQKSRKDQIQRLVLSTVVIFLACFLPYHVLLLVRSLWERNCEFAKSIFNVYHFSLLLTSFNCVADPVLYCFVSETTHRDLARLRGACLAVLTCSR</Hsp_hseq>
+      <Hsp_midline>GFP N + L       K R  L   L N++    F +C    +  +V   + +   G   C + G L      ++   L  ++ +RY+ +  PF   +F + K A+ V +  W   +  SI  F      I +  Q     + Y +    RS +Y  FL  F F  P+ L+  SY  +LRA++        S  TQK+ ++ + R+V+  V  F  C++PY    +   +  RN      +  +  F    +   C+ +P++YCF+++           AC+  + C +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>436</Hit_num>
+  <Hit_id>sp|P21761.1|</Hit_id>
+  <Hit_def>RecName: Full=Thyrotropin-releasing hormone receptor; Short=TRH-R; AltName: Full=Thyroliberin receptor [Mus musculus]</Hit_def>
+  <Hit_accession>P21761</Hit_accession>
+  <Hit_len>393</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>59.6918</Hsp_bit-score>
+      <Hsp_score>143</Hsp_score>
+      <Hsp_evalue>1.0254e-08</Hsp_evalue>
+      <Hsp_query-from>47</Hsp_query-from>
+      <Hsp_query-to>327</Hsp_query-to>
+      <Hsp_hit-from>38</Hsp_hit-from>
+      <Hsp_hit-to>345</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>73</Hsp_identity>
+      <Hsp_positive>130</Hsp_positive>
+      <Hsp_gaps>67</Hsp_gaps>
+      <Hsp_align-len>328</Hsp_align-len>
+      <Hsp_qseq>IGFPLNAMVLVATLRYKKLRQPLNYILVNVSFGGFLLCIFSVFPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPF-GNFRFSSKHALTVVLATWTIGIGVSIPPFFGWSRFI---PEGLQCSCGPDWYTVGTKYRSESYTWFLFIFCFIVPLSLICFSYTQLLRA--LKAVAAQQQESA------------------------TTQKAEREVSRMVVVMVGSFCVCYVPYAAFAMYMVNNRNHGLDLRLVTIPSFFSK-----------SACIY-----NPIIYCFMNKQFQACIMKMV-CGKAMTDES</Hsp_qseq>
+      <Hsp_hseq>LGIVGNIMVVLVVMRTKHMRTPTNCYLVSLAVADLMVLVAAGLPNITDSIYGSWVYGYVGCLCITYLQYLGINASSCSITAFTIERYIAICHPIKAQFLCTFSRAKKIIIFVWAFTSIYCMLWFFLLDLNISTYKNAVVVSCG---YKISRNYYSPIYLMDFGVF-YVVPMILATVLYGFIARILFLNPIPSDPKENSKMWKNDSIHQNKNLNLNATNRCFNSTVSSRKQVTKMLAVVVILFALLWMPYRT----------------LVVVNSFLSSPFQENWFLLFCRICIYLNSAINPVIYNLMSQKFRAAFRKLCNCKQKPTEKA</Hsp_hseq>
+      <Hsp_midline>+G   N MV++  +R K +R P N  LV+++    ++ + +  P    S  G +V+G   C    +L  +    +  S+     ERYI IC P    F  +   A  +++  W       +  FF     I      +  SCG   Y +   Y S  Y     +F ++VP+ L    Y  + R   L  + +  +E++                        +T  + ++V++M+ V+V  F + ++PY                  LV + SF S              CIY     NP+IY  M+++F+A   K+  C +  T+++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>443</Hit_num>
+  <Hit_id>sp|Q9JKL1.2|</Hit_id>
+  <Hit_def>RecName: Full=Prokineticin receptor 1; Short=PK-R1; AltName: Full=G-protein coupled receptor 73 [Mus musculus]</Hit_def>
+  <Hit_accession>Q9JKL1</Hit_accession>
+  <Hit_len>393</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>59.3066</Hsp_bit-score>
+      <Hsp_score>142</Hsp_score>
+      <Hsp_evalue>1.28467e-08</Hsp_evalue>
+      <Hsp_query-from>39</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>68</Hsp_hit-from>
+      <Hsp_hit-to>305</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>111</Hsp_positive>
+      <Hsp_gaps>16</Hsp_gaps>
+      <Hsp_align-len>243</Hsp_align-len>
+      <Hsp_qseq>AFMGTVFLIGFPLNAMVLVATLRYKKLRQPLNYILVNVSFGGFLL----CIFSVFPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFGNFRFSSKHALTVVLATWTIGIGVSIPPFFGWSR----FIPEGLQCSCGPDWYTVGTKYRSESYTWFLFIFCFIVPLSLICFSYTQLLRAL--KAVAAQQQESATTQKAEREVSRM-VVVMVGSFCVCYVPYAAFAM</Hsp_qseq>
+      <Hsp_hseq>ALVGIMLVCGIG-NFIFITALARYKKLRNLTNLLIANLAISDFLVAIVCCPFEMDYYVVRQLS--WEHGHVLCASVNYLRTVSLYVSTNALLAIAIDRYLAIVHPLRP-RMKCQTAAGLIFLVWSVSILIAIPAAYFTTETVLVIVERQEKIFCGQIW-PVDQQFYYRSYFLLVFGLEFVGPVVAMTLCYARVSRELWFKAVPGFQTEQIRRRLRCRRRTVLGLVCVLSAYVLCWAPFYGFTI</Hsp_hseq>
+      <Hsp_midline>A +G + + G   N + + A  RYKKLR   N ++ N++   FL+    C F +    V   +  +  G  +CA   +L TV+  V+  +L  +A +RY+ I  P    R   + A  ++   W++ I ++IP  +  +      +    +  CG  W  V  ++   SY   +F   F+ P+  +   Y ++ R L  KAV   Q E    +   R  + + +V ++ ++ +C+ P+  F +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>444</Hit_num>
+  <Hit_id>sp|P83861.1|</Hit_id>
+  <Hit_def>RecName: Full=Pyroglutamylated RF-amide peptide receptor; AltName: Full=AQ27; AltName: Full=G-protein coupled receptor 103; AltName: Full=Orexigenic neuropeptide QRFP receptor; AltName: Full=SP9155 [Mus musculus]</Hit_def>
+  <Hit_accession>P83861</Hit_accession>
+  <Hit_len>433</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>59.3066</Hsp_bit-score>
+      <Hsp_score>142</Hsp_score>
+      <Hsp_evalue>1.29765e-08</Hsp_evalue>
+      <Hsp_query-from>33</Hsp_query-from>
+      <Hsp_query-to>319</Hsp_query-to>
+      <Hsp_hit-from>47</Hsp_hit-from>
+      <Hsp_hit-to>348</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>71</Hsp_identity>
+      <Hsp_positive>131</Hsp_positive>
+      <Hsp_gaps>29</Hsp_gaps>
+      <Hsp_align-len>309</Hsp_align-len>
+      <Hsp_qseq>AFYLQAAFMGTVFLIGFPLNAMVLVATLRYKKLRQPLNYILVNVSFGGFLLCIFSVFPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFG-NFRFSSKHALTVVLATWTIGIGVSIPPFFGWS-----RFIPEGLQCSCGPDWYTVGTKYRSESYTWFLFIFCFIVPLSLICFSYTQL-------LRALKAVAAQQQESATTQKAEREVSRMVVVMVGS---FCVCYVPYAAFAMYMVNNRNHGLDLRLVTIPSFFSKSACIY------NPIIYCFMNKQFQACIMKMVC</Hsp_qseq>
+      <Hsp_hseq>AFALAGALIFALALFG---NSLVIYVVTRSKAMRTVTNIFICSLALSDLLIAFFCIPVTMLQNISDKWLGGAFICKMVPFVQSTAVVTEILTMTCIAVERHQGLIHPFKMKWQYTTRRAFTILGVVWLAAIIVGSPMWHVQRLEIKYDFLYEKEHVCCLEEW---ASPMHQRIYTTFILVILFLLPLVVMLVLYSKIGYELWIKKRVGDSSALQTIHGKEMSKIARKKKRAVVMMVTVVALFAACWAPFHVVHM-MVEYSNFEKEYDDVTIKMVFAVAQTIGFFNSICNPFVYAFMNENFKKNFLSAVC</Hsp_hseq>
+      <Hsp_midline>AF L  A +  + L G   N++V+    R K +R   N  + +++    L+  F +    + + +  ++ G  +C +  F+ + A +    ++  +A ER+  +  PF   ++++++ A T++   W   I V  P +          F+ E     C  +W    +      YT F+ +  F++PL ++   Y+++        R   + A Q        K  R+  R VV+MV     F  C+ P+    M MV   N   +   VTI   F+ +  I       NP +Y FMN+ F+   +  VC</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>446</Hit_num>
+  <Hit_id>sp|Q60614.2|</Hit_id>
+  <Hit_def>RecName: Full=Adenosine receptor A2b [Mus musculus]</Hit_def>
+  <Hit_accession>Q60614</Hit_accession>
+  <Hit_len>332</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>58.5362</Hsp_bit-score>
+      <Hsp_score>140</Hsp_score>
+      <Hsp_evalue>1.79232e-08</Hsp_evalue>
+      <Hsp_query-from>52</Hsp_query-from>
+      <Hsp_query-to>341</Hsp_query-to>
+      <Hsp_hit-from>25</Hsp_hit-from>
+      <Hsp_hit-to>329</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>67</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>19</Hsp_gaps>
+      <Hsp_align-len>307</Hsp_align-len>
+      <Hsp_qseq>NAMVLVATLRYKKLRQPLNYILVNVSFGGFLLCIFSVFPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFG-NFRFSSKHALTVVLATWTIGIGVSIPPFFGWSRFIPEGLQC----------SCGPDWYTVGTKYRSESYTWFLFIFCFIVPLSLICFSYTQL-LRALKAVAAQQ--QESATTQKAEREVSRMVVVMVGSFCVCYVPYAAFAMYMVNNRNHGLDLR--LVTIPSFFSKSACIYNPIIYCFMNKQFQACIMKMVCGKAMTD-ESDTCSSQKTEVSTVS</Hsp_qseq>
+      <Hsp_hseq>NVLVCAAVGASSALQTPTNYFLVSLATADVAVGLFAI-P-FAITISLGFCTDFHGCLFLACFVLVLTQSSIFSLLAVAVDRYLAIRVPLRYKGLVTGTRARGIIAVLWVLAFGIGLTPFLGWNSKDSATSNCTELGDGIANKSCCPVTCLFENVVPMSYMVYFNFFGCVLPPLLIMLVIYIKIFMVACKQLQRMELMDHSRTTLQREIHAAKSLAMIVGIFALCWLPVHAINCITLFHPALAKDKPKWVMNVAILLSHANSVVNPIVYAYRNRDFRYSFHKIISRYVLCQAETKGGSGQAGAQSTLS</Hsp_hseq>
+      <Hsp_midline>N +V  A      L+ P NY LV+++     + +F++ P F  + +  F    H C        V    + +SL  +A +RY+ I  P       +   A  ++   W +  G+ + PF GW+        C          SC P               +F F  C + PL ++   Y ++ + A K +   +    S TT + E   ++ + ++VG F +C++P  A     + +     D    ++ +    S +  + NPI+Y + N+ F+    K++    +   E+   S Q    ST+S</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>454</Hit_num>
+  <Hit_id>sp|O55040.2|</Hit_id>
+  <Hit_def>RecName: Full=Neuromedin-U receptor 1; Short=NMU-R1; AltName: Full=G-protein coupled receptor 66; AltName: Full=G-protein coupled receptor FM-3 [Mus musculus]</Hit_def>
+  <Hit_accession>O55040</Hit_accession>
+  <Hit_len>428</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>58.5362</Hsp_bit-score>
+      <Hsp_score>140</Hsp_score>
+      <Hsp_evalue>2.7814e-08</Hsp_evalue>
+      <Hsp_query-from>18</Hsp_query-from>
+      <Hsp_query-to>316</Hsp_query-to>
+      <Hsp_hit-from>52</Hsp_hit-from>
+      <Hsp_hit-to>370</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>75</Hsp_identity>
+      <Hsp_positive>134</Hsp_positive>
+      <Hsp_gaps>54</Hsp_gaps>
+      <Hsp_align-len>336</Hsp_align-len>
+      <Hsp_qseq>VGPWDGPQYHIAPVWAFYLQAAFMGTVFLIGFPLNAMVLVATLRYKKLRQPLNYILVNVSFGGFLLCIFSV-FPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPF-GNFRFSSKHALTVVLATWTIGIGVSIP--PFFGWSRF-------IPEGLQCS-CGPDWYTVGTKYRSESYTWFLFIFCFIVPLSLICFSYTQL--------------LRALKAVAAQQQESATTQ---KAEREVSRMVVVMVGSFCVCYVPYAAFAM---YMVNNRNHGLDL--RLVTIPS---FFSKSACIYNPIIYCFMNKQFQACIMK</Hsp_qseq>
+      <Hsp_hseq>LGPQQMKQF--VPICVTYL------LIFVVGTLGNGLTCTVILRNKTMRTPTNFYLFSLAVSDMLVLLVGLPLELYEMQQNYPFQLGASACYFRILLLETVCLASVLNVTALSVERYVAVVRPLQAKSVMTRAHVRRMVGAIWVLATLFSLPNTSLHGLSQLTVPCRGPVPDSAICSLVGPMDF-----YKLVVLTTALLFFCL--PMVTISVLYLLIGLRLRRERMLLQVEVKGRKTAATQETSHRRIQLQDRGRRQVTKMLFALVVVFGICWAPFHADRIMWSLVYGHSTEGLHLAYQCVHIASGIFFYLGSAA--NPVLYSLMSTRFRETFLQ</Hsp_hseq>
+      <Hsp_midline>+GP    Q+   P+   YL       +F++G   N +     LR K +R P N+ L +++    L+ +  +   ++    N  F  G   C     L     L +  ++  L+ ERY+ + +P       +  H   +V A W +    S+P     G S+        +P+   CS  GP  +     Y+    T  L  FC   P+  I   Y  +              ++  K  A Q+      Q   +  R+V++M+  +V  F +C+ P+ A  +    +  +   GL L  + V I S   F+  SA   NP++Y  M+ +F+   ++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>460</Hit_num>
+  <Hit_id>sp|P97718.3|</Hit_id>
+  <Hit_def>RecName: Full=Alpha-1A adrenergic receptor; AltName: Full=Alpha-1A adrenoreceptor; Short=Alpha-1A adrenoceptor; AltName: Full=Alpha-1C adrenergic receptor [Mus musculus]</Hit_def>
+  <Hit_accession>P97718</Hit_accession>
+  <Hit_len>466</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>58.151</Hsp_bit-score>
+      <Hsp_score>139</Hsp_score>
+      <Hsp_evalue>4.21474e-08</Hsp_evalue>
+      <Hsp_query-from>36</Hsp_query-from>
+      <Hsp_query-to>306</Hsp_query-to>
+      <Hsp_hit-from>28</Hsp_hit-from>
+      <Hsp_hit-to>282</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>112</Hsp_positive>
+      <Hsp_gaps>26</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>LQAAFMGTVFLIGFPLNAMVLVATLRYKKLRQPLNYILVNVSFGGFLLCIFSVFP-VFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFGNFRF----SSKHALTVVLATWTIGIGVSIPPFFGWSRFIPEGLQCSCGPDWYTVGTKYRSESYTWFLFIFCFIVPLSLICFSYTQLLRALKAVAAQQQESATTQKAEREVSRMVVVMVGSFCVCYVPYAAFAMYMVNNRNHGLDLRLVTIPSFFSKSACIYNPIIYCFM</Hsp_qseq>
+      <Hsp_hseq>LLGVILGGLIIFGVLGNILVILSVACHRHLHSVTHYYIVNLAVADLLL-TSTVLPFSAIFEILGYWAFGRVFCNIWAAVDVLCCTASIMGLCIISIDRYIGVSYPL---RYPTIVTQRRGVRALLCVWALSLVISIGPLFGWRQQAPED---------ETICQINEEPGYVLFSALGSFYVPLTIILVMYCRVYVVAKRESRGLKSGLKTDKSDSEQVTLRIHRKN------VPAEGSGVSSAKNKTH-FSVRLLKF-SREKKAAKTLGIVVGCFV</Hsp_hseq>
+      <Hsp_midline>L    +G + + G   N +V+++   ++ L    +Y +VN++    LL   +V P   +    GY+ FGR  C +   +  +    +   L  ++ +RYI +  P    R+    + +  +  +L  W + + +SI P FGW +  PE           T+        Y  F  +  F VPL++I   Y ++    K  +   +    T K++ E   + +          VP     +    N+ H   +RL+   S   K+A     ++ CF+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>467</Hit_num>
+  <Hit_id>sp|Q99P50.3|</Hit_id>
+  <Hit_def>RecName: Full=Growth hormone secretagogue receptor type 1; Short=GHS-R; AltName: Full=GH-releasing peptide receptor; Short=GHRP; AltName: Full=Ghrelin receptor [Mus musculus]</Hit_def>
+  <Hit_accession>Q99P50</Hit_accession>
+  <Hit_len>364</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>57.3806</Hsp_bit-score>
+      <Hsp_score>137</Hsp_score>
+      <Hsp_evalue>4.86839e-08</Hsp_evalue>
+      <Hsp_query-from>44</Hsp_query-from>
+      <Hsp_query-to>318</Hsp_query-to>
+      <Hsp_hit-from>52</Hsp_hit-from>
+      <Hsp_hit-to>336</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>69</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>42</Hsp_gaps>
+      <Hsp_align-len>301</Hsp_align-len>
+      <Hsp_qseq>VFLIGFPLNAMVLVATLRYKKLRQPLNYILVNVSFGGFLLCIFSVFPVFVASCNGY--FVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPF-GNFRFSSKHALTVVLATWTIGIGVSIPPFFGWSRFIPEGLQCSCGPDWYTVGTKYRSE---------------SYTWFLFIFCFIVPLSLICFSYTQLLRALKAVAAQQQESATTQKAEREVSRMVVVMVGSFCVCYVPYAAFAMYMVNNRNHGLDLRLVTIPSF--------FSKSACIYNPIIYCFMNKQFQACIMKMV</Hsp_qseq>
+      <Hsp_hseq>LFVVGISGNLLTMLVVSRFRELRTTTNLYLSSMAFSDLL--IFLCMPLDLVRLWQYRPWNFGDLLCKLFQFVSESCTYATVLTITALSVERYFAICFPLRAKVVVTKGRVKLVILVIWAVAFCSAGPI------FVLVGVEHENGTDPRDTNECRATEFAVRSGLLTVMVWVSSVFFFLPVFCLTVLYSLIG---RKLWRRRGDAAVG---SSLRDQNHKQTVKMLAVVVFAFILCWLPFHV-GRYLFSKSFEPGSLEIAQISQYCNLVSFVLFYLSAAI-NPILYNIMSKKYRVAVFKLL</Hsp_hseq>
+      <Hsp_midline>+F++G   N + ++   R+++LR   N  L +++F   L  IF   P+ +     Y  + FG  +C L  F+       T  ++  L+ ERY  IC P       +      V+L  W +    + P       F+  G++   G D         +E               S  +FL +FC  V  SLI     +L R     A     S+   +  ++  +M+ V+V +F +C++P+     Y+ +       L +  I  +        F  SA I NPI+Y  M+K+++  + K++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>471</Hit_num>
+  <Hit_id>sp|P56481.1|</Hit_id>
+  <Hit_def>RecName: Full=Gastrin/cholecystokinin type B receptor; Short=CCK-B receptor; Short=CCK-BR; AltName: Full=Cholecystokinin-2 receptor; Short=CCK2-R [Mus musculus]</Hit_def>
+  <Hit_accession>P56481</Hit_accession>
+  <Hit_len>453</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>57.3806</Hsp_bit-score>
+      <Hsp_score>137</Hsp_score>
+      <Hsp_evalue>5.64766e-08</Hsp_evalue>
+      <Hsp_query-from>44</Hsp_query-from>
+      <Hsp_query-to>182</Hsp_query-to>
+      <Hsp_hit-from>64</Hsp_hit-from>
+      <Hsp_hit-to>205</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>41</Hsp_identity>
+      <Hsp_positive>74</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>143</Hsp_align-len>
+      <Hsp_qseq>VFLIGFPLNAMVLVATLRYKKLRQPLNYILVNVSFGGFLLCIFSVFPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFGNFRFSSK-HALTVVLATWTIGIGVSIPPFFGWSRFIPEG---LQC</Hsp_qseq>
+      <Hsp_hseq>IFLMSVGGNVLIIVVLGLSRRLRTVTNAFLLSLAVSDLLLAVACMPFTLLPNLMGTFIFGTVICKAVSYLMGVSVSVSTLNLAAIALERYSAICRPLQARVWQTRSHAARVILATWLLS-GLLMVPYPVYTVVQPVGPRILQC</Hsp_hseq>
+      <Hsp_midline>+FL+    N +++V     ++LR   N  L++++    LL +  +    + +  G F+FG  +C    +L  V+  V+  +LA +A ERY  IC+P     + ++ HA  V+LATW +  G+ + P+  ++   P G   LQC</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>38.891</Hsp_bit-score>
+      <Hsp_score>89</Hsp_score>
+      <Hsp_evalue>0.0525779</Hsp_evalue>
+      <Hsp_query-from>243</Hsp_query-from>
+      <Hsp_query-to>314</Hsp_query-to>
+      <Hsp_hit-from>333</Hsp_hit-from>
+      <Hsp_hit-to>408</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>26</Hsp_identity>
+      <Hsp_positive>44</Hsp_positive>
+      <Hsp_gaps>10</Hsp_gaps>
+      <Hsp_align-len>79</Hsp_align-len>
+      <Hsp_qseq>AEREVSRMVVVMVGSFCVCYVP------YAAFAMYMVNNRNHGLDLRLVTIPSFFSKSACIYNPIIYCFMNKQF-QACI</Hsp_qseq>
+      <Hsp_hseq>AKKRVVRMLLVIVLLFFVCWLPVYSANTWRAFDGPGARRALAGAPISFIHLLSYTSACA---NPLVYCFMHRRFRQACL</Hsp_hseq>
+      <Hsp_midline>A++ V RM++V+V  F VC++P      + AF          G  +  + + S+ S  A   NP++YCFM+++F QAC+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>475</Hit_num>
+  <Hit_id>sp|Q61184.1|</Hit_id>
+  <Hit_def>RecName: Full=Melatonin receptor type 1A; Short=Mel-1A-R; Short=Mel1a receptor [Mus musculus]</Hit_def>
+  <Hit_accession>Q61184</Hit_accession>
+  <Hit_len>353</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>56.9954</Hsp_bit-score>
+      <Hsp_score>136</Hsp_score>
+      <Hsp_evalue>5.99098e-08</Hsp_evalue>
+      <Hsp_query-from>52</Hsp_query-from>
+      <Hsp_query-to>328</Hsp_query-to>
+      <Hsp_hit-from>48</Hsp_hit-from>
+      <Hsp_hit-to>332</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>64</Hsp_identity>
+      <Hsp_positive>134</Hsp_positive>
+      <Hsp_gaps>32</Hsp_gaps>
+      <Hsp_align-len>297</Hsp_align-len>
+      <Hsp_qseq>NAMVLVATLRYKKLRQPLNYILVNVSFGGFLLCIFSVFPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFGNFR-FSSKHALTVVLATWTIGIGVSIPPF-FGWSRFIPEGLQCSCGPDWYTVGTKYRSESYTWFLFIFCFIVPLSLICFSYTQL----LRALKAVAAQQQESATTQKAEREVSRMVVVMVGSFCVCYVPYAAFAMYMVNNRNHGLDLRL---VTIPSFFSK--SACIYNPIIYCFMNKQFQA---------CIMKMVCGKAMTDESD</Hsp_qseq>
+      <Hsp_hseq>NLLVILSVYRNKKLRNSGNIFVVSLAVADLVVAVYPYPLVLTSILNNGWNLGYLHCQVSAFLMGLSVIGSIFNITGIAMNRYCYICHSLKYDKIYSNKNSLCYVFLIWMLTLIAIMPNLQTGTLQYDPRIYSCT--------FTQSVSSAYTIAVVVFHFIVPMIIVIFCYLRIWVLVLQVRRRVKPDNKPKLKPQDFRNFVTMFVVFVL--FAICWAPLNLIGL-IVASDPATMVPRIPEWLFVASYYLAYFNSCL-NAIIYGLLNQNFRKEYKKIIVSLCTAKMFFVESSNEEAD</Hsp_hseq>
+      <Hsp_midline>N +V+++  R KKLR   N  +V+++    ++ ++    V  +  N  +  G   C +  FL  ++ + + +++  +A  RY  IC      + +S+K++L  V   W + +   +P    G  ++ P    C+         T+  S +YT  + +F FIVP+ ++ F Y ++    L+  + V    +     Q     V+  VV ++  F +C+ P     + +V +    +  R+   + + S++    ++C+ N IIY  +N+ F+          C  KM   ++  +E+D</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>479</Hit_num>
+  <Hit_id>sp|P97926.2|</Hit_id>
+  <Hit_def>RecName: Full=Oxytocin receptor; Short=OT-R [Mus musculus]</Hit_def>
+  <Hit_accession>P97926</Hit_accession>
+  <Hit_len>388</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>56.9954</Hsp_bit-score>
+      <Hsp_score>136</Hsp_score>
+      <Hsp_evalue>8.32391e-08</Hsp_evalue>
+      <Hsp_query-from>36</Hsp_query-from>
+      <Hsp_query-to>339</Hsp_query-to>
+      <Hsp_hit-from>41</Hsp_hit-from>
+      <Hsp_hit-to>369</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>76</Hsp_identity>
+      <Hsp_positive>136</Hsp_positive>
+      <Hsp_gaps>43</Hsp_gaps>
+      <Hsp_align-len>338</Hsp_align-len>
+      <Hsp_qseq>LQAAFMGTVFLIGFPLNAMVLVA--TLRYKKLRQPLNYILVNVSFGGFLLCIFSVFPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFGNFRFSSKHALTVVLATWTIGIGVSIPPFFGWS-RFIPEGL-QCSCGPDWYTVGTKYRSESYTWFLFIFCFIVPL-------SLICFSYTQLLR------------------ALKAVAAQQQESATTQKAEREVSRMVVVMVGSFCVCYVPYAAFAMYMVNNRNHGLDLRLVTIPSFFSKSACIYNPIIY-CFMNKQFQACIMKMVCGKAM----TDESDTCSSQKTEVST</Hsp_qseq>
+      <Hsp_hseq>VEVAVLCLILFLALSGNACVLLALRTTRHKHSR--LFFFMKHLSIADLVVAVFQVLPQLLWDITFRFYGPDLLCRLVKYLQVVGMFASTYLLLLMSLDRCLAICQPLRSLRRRTDR--LAVLATWLGCLVASVPQVHIFSLREVADGVFDC-----WAVFIQPWGPKAYVTWITLAVYIVPVIVLAACYGLISFKIWQNLRLKTAAAAAAAEGSDAAGGAGRAALARVSSVKLISKAKIRTVKMTFIIVLAFIVCWTPFFFVQMWSVWDVNAPKEASAFIIAMLLASLNSCCNPWIYMLFTGHLFHELVQRFLCCSARYLKGSRPGETSISKKSNSST</Hsp_hseq>
+      <Hsp_midline>++ A +  +  +    NA VL+A  T R+K  R  L + + ++S    ++ +F V P  +      F     +C L  +L  V    + + L  ++ +R + IC+P  + R  +      VLATW   +  S+P    +S R + +G+  C     W      +  ++Y  ++ +  +IVP+        LI F   Q LR                  A +A  A+        KA+    +M  ++V +F VC+ P+    M+ V + N   +     I    +      NP IY  F    F   + + +C  A     +   +T  S+K+  ST</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>483</Hit_num>
+  <Hit_id>sp|Q02284.1|</Hit_id>
+  <Hit_def>RecName: Full=5-hydroxytryptamine receptor 1F; Short=5-HT-1F; Short=5-HT1F; AltName: Full=5-HT-1E-beta; AltName: Full=Serotonin receptor 1F [Mus musculus]</Hit_def>
+  <Hit_accession>Q02284</Hit_accession>
+  <Hit_len>366</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>56.6102</Hsp_bit-score>
+      <Hsp_score>135</Hsp_score>
+      <Hsp_evalue>9.21035e-08</Hsp_evalue>
+      <Hsp_query-from>46</Hsp_query-from>
+      <Hsp_query-to>242</Hsp_query-to>
+      <Hsp_hit-from>35</Hsp_hit-from>
+      <Hsp_hit-to>223</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>43</Hsp_identity>
+      <Hsp_positive>89</Hsp_positive>
+      <Hsp_gaps>10</Hsp_gaps>
+      <Hsp_align-len>198</Hsp_align-len>
+      <Hsp_qseq>LIGFPLNAMVLVATLRYKKLRQPLNYILVNVSFGGFLLCIFSVFPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFGNFRFSS-KHALTVVLATWTIGIGVSIPPFFGWSRFIPEGLQCSCGPDWYTVGTKYRSESYTWFLFIFCFIVPLSLICFSYTQLLRALKAVAAQQQESATTQK</Hsp_qseq>
+      <Hsp_hseq>LMTTTINSLVIAAIIVTRKLHHPANYLICSLAVTDFLVAVLVMPFSIVYIVRESWIMGQVLCDIWLSVDIICCTCSILHLSAIALDRYRAITDAVEYARKRTPRHAGIMITIVWVISVFISMPPLFWRHQGTSRDDECVIKHD-HIVSTIYST--------FGAFYIPLVLILILYYKIYRAARTLYHKRQASRMIKE</Hsp_hseq>
+      <Hsp_midline>L+   +N++V+ A +  +KL  P NY++ +++   FL+ +  +    V      ++ G+ +C +   +  +    +   L+ +A +RY  I       R  + +HA  ++   W I + +S+PP F   +      +C    D + V T Y +           F +PL LI   Y ++ RA + +  ++Q S   ++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>488</Hit_num>
+  <Hit_id>sp|Q61121.2|</Hit_id>
+  <Hit_def>RecName: Full=Probable G-protein coupled receptor 19 [Mus musculus]</Hit_def>
+  <Hit_accession>Q61121</Hit_accession>
+  <Hit_len>415</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>56.6102</Hsp_bit-score>
+      <Hsp_score>135</Hsp_score>
+      <Hsp_evalue>1.10789e-07</Hsp_evalue>
+      <Hsp_query-from>40</Hsp_query-from>
+      <Hsp_query-to>323</Hsp_query-to>
+      <Hsp_hit-from>71</Hsp_hit-from>
+      <Hsp_hit-to>350</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>52</Hsp_identity>
+      <Hsp_positive>121</Hsp_positive>
+      <Hsp_gaps>12</Hsp_gaps>
+      <Hsp_align-len>288</Hsp_align-len>
+      <Hsp_qseq>FMGTVFLIGFPLNAMVLVATLRYKKLRQPLNYILVNVSFGGFLLCIFSVFPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFGNFRFSSKHALTVVLATWTIGIGVSIPPFFGWSRFIPEGLQCSCGPDWYTVGTKYRSESYTWFLFIFCFIVPLSLICFSYTQLLRALKAVAAQQQESATTQ----KAEREVSRMVVVMVGSFCVCYVPYAAFAMYMVNNRNHGLDLRLVTIPSFFSKSACIYNPIIYCFMNKQFQACIMKMVCGKAM</Hsp_qseq>
+      <Hsp_hseq>FFGALWLFSIFGNSLVCLVIHRSRRTQSTTNYFVVSMACADLLISVASTPFVVLQFTTGRWTLGSAMCKVVRYFQYLTPGVQIYVLLSICIDRFYTIVYPL-SFKVSREKAKKMIAASWILDAAFVTPVFF----FYGSNWDSHCN---YFLPPSWEGTAYTVIHFLVGFVIPSILIILFYQKVIKYIWRIGTDGRTLRRTMNIVPRTKVKTVKMFLLLNLVFLFSWLPFHVAQLWHPHEQDYKKSSLVFTAVTWVSFSSSASKPTLYSIYNANFRRGMKETFCMSSM</Hsp_hseq>
+      <Hsp_midline>F G ++L     N++V +   R ++ +   NY +V+++    L+ + S   V +    G +  G  +C +  +   +   V  + L  +  +R+  I  P  +F+ S + A  ++ A+W +      P FF    F        C    Y +   +   +YT   F+  F++P  LI   Y ++++ +  +    +    T     + + +  +M +++   F   ++P+    ++  + +++     + T  ++ S S+    P +Y   N  F+  + +  C  +M</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>489</Hit_num>
+  <Hit_id>sp|Q923Y8.1|</Hit_id>
+  <Hit_def>RecName: Full=Trace amine-associated receptor 1; Short=TaR-1; Short=Trace amine receptor 1 [Mus musculus]</Hit_def>
+  <Hit_accession>Q923Y8</Hit_accession>
+  <Hit_len>332</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>56.225</Hsp_bit-score>
+      <Hsp_score>134</Hsp_score>
+      <Hsp_evalue>1.14228e-07</Hsp_evalue>
+      <Hsp_query-from>27</Hsp_query-from>
+      <Hsp_query-to>328</Hsp_query-to>
+      <Hsp_hit-from>12</Hsp_hit-from>
+      <Hsp_hit-to>326</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>68</Hsp_identity>
+      <Hsp_positive>138</Hsp_positive>
+      <Hsp_gaps>39</Hsp_gaps>
+      <Hsp_align-len>328</Hsp_align-len>
+      <Hsp_qseq>HIAPVWAFYLQAAF---MGTVFLIGFPLNAMVLVATLRYKKLRQPLNYILVNVSFGGFLLCIFSVFPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFGNFRFSSKHALTVVLATWTIGIGVSIPPFFGWSRFIPE----GLQCSCGPDWYTVG--TKYRSESYTWFLFIFCFIVPLSLICFSYTQLL-------RALKAVAAQ---QQESATTQKAEREVSRMVVVMVGSFCVCYVPY------AAFAMYMV-NNRNHGLDLRLVTIPSFFSKSACIYNPIIYCFMNKQFQACIMKMVCGKAMTDESD</Hsp_qseq>
+      <Hsp_hseq>HRNSDWSREVQASLYSLMSLIILATLVGNLIVIISISHFKQLHTPTNWLLHSMAIVDFLLGCLIMPCSMVRTVERCWYFGEILCKVHTSTDIMLSSASIFHLAFISIDRYCAVCDP---LRYKAKINISTILV--MILVSWSLPAVYAFGMIFLELNLKGVEELYRSQVSDLGGCSPFFSKVSGVLAFMTSFYIPGSVMLFVYYRIYFIAKGQARSINRTNVQVGLEGKSQAPQSKETKAAKTLGIMVGVFLVCWCPFFLCTVLDPFLGYVIPPSLNDAL--------YWFGYLNSALNPMVYAFFYPWFRRALKMVLLGKIFQKDSS</Hsp_hseq>
+      <Hsp_midline>H    W+  +QA+    M  + L     N +V+++   +K+L  P N++L +++   FLL    +    V +    + FG  +C +      +    + + LAF++ +RY  +C P    R+ +K  ++ +L    I +  S+P  + +     E    G++         +G  + + S+      F+  F +P S++ F Y ++        R++     Q   + +S   Q  E + ++ + +MVG F VC+ P+        F  Y++  + N  L         +F       NP++Y F    F+  +  ++ GK    +S </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+<Hit>
+  <Hit_num>498</Hit_num>
+  <Hit_id>sp|Q5QD08.1|</Hit_id>
+  <Hit_def>RecName: Full=Trace amine-associated receptor 7f; Short=TaR-7f; Short=Trace amine receptor 7f; Short=mTaar7f [Mus musculus]</Hit_def>
+  <Hit_accession>Q5QD08</Hit_accession>
+  <Hit_len>358</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.8398</Hsp_bit-score>
+      <Hsp_score>133</Hsp_score>
+      <Hsp_evalue>1.81513e-07</Hsp_evalue>
+      <Hsp_query-from>52</Hsp_query-from>
+      <Hsp_query-to>329</Hsp_query-to>
+      <Hsp_hit-from>65</Hsp_hit-from>
+      <Hsp_hit-to>352</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>67</Hsp_identity>
+      <Hsp_positive>126</Hsp_positive>
+      <Hsp_gaps>34</Hsp_gaps>
+      <Hsp_align-len>300</Hsp_align-len>
+      <Hsp_qseq>NAMVLVATLRYKKLRQPLNYILVNVSFGGFLLCIFSVFPVFVASCNGYFVFGRHVCALEGFLGTVAGLVTGWSLAFLAFERYIVICKPFG-NFRFSSKHALTVVLATWTIGIGVSIPPFF-GWSRFIPEGLQCSCGPDWYTVGTKYRSESYTWFLFIF-CFIVPLSLICFSYTQLLRALKAVAAQQQESATTQ-------------KAEREVSRMVVVMVGSFCVCYVPY------AAFAMYMVNNRNHGLDLRLVTIPSFFSKSACIYNPIIYCFMNKQFQACIMKMVCGKAMTDESDT</Hsp_qseq>
+      <Hsp_hseq>NLLVMTSILHFRQLHSPANFLVASLACADFLVGVMVMPFSMVRSVEGCWYFGDSYCKLHTCFDVSFCYCSLFHLCFISVDRYIAVSDPLAYPTRFTASVSGKCITFSWLLSISYGFSLIYTGASEAGLEDLVSSLT----CVGGCQIAVNQTWVFINFSVFLIPTLVMITVYSKIFLIAKQ-QAQNIEKMSKQTARASDSYKDRVAKRERKAAKTLGIAVAAFLLSWLPYFIDSFIDAFLGFITPTYVYEILVWIV-----YYNSA--MNPLIYAFFYPWFRKAIKLTVTGKILRENSST</Hsp_hseq>
+      <Hsp_midline>N +V+ + L +++L  P N+++ +++   FL+ +  +    V S  G + FG   C L           + + L F++ +RYI +  P     RF++  +   +  +W + I       + G S    E L  S       VG    + + TW    F  F++P  ++   Y+++    K   AQ  E  + Q             K ER+ ++ + + V +F + ++PY       AF  ++     + + + +V     +  SA   NP+IY F    F+  I   V GK + + S T</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+
+</Hits>

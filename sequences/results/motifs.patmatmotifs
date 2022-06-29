@@ -1,0 +1,64 @@
+########################################
+# Program: patmatmotifs
+# Rundate: Sun 26 Jun 2022 03:24:48
+# Commandline: patmatmotifs
+#    -sequence sequences/results/protein.fasta
+#    -outfile sequences/results/motifs.patmatmotifs
+# Report_format: dbmotif
+# Report_file: sequences/results/motifs.patmatmotifs
+########################################
+
+#=======================================
+#
+# Sequence: <unknown     from: 1   to: 348
+# HitCount: 4
+#
+# Full: No
+# Prune: Yes
+# Data_file: /usr/local/Cellar/emboss/6.6.0/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 8
+Start = position 3 of sequence
+End = position 10 of sequence
+
+Motif = TYR_PHOSPHO_SITE_1
+
+MRKMSEEEFYLFKNI
+  |      |
+  3      10
+
+Length = 17
+Start = position 120 of sequence
+End = position 136 of sequence
+
+Motif = G_PROTEIN_RECEP_F1_1
+
+TVAGLVTGWSLAFLAFERYIVICKPFG
+     |               |
+   120               136
+
+Length = 17
+Start = position 287 of sequence
+End = position 303 of sequence
+
+Motif = OPSIN
+
+LRLVTIPSFFSKSACIYNPIIYCFMNK
+     |               |
+   287               303
+
+Length = 8
+Start = position 3 of sequence
+End = position 10 of sequence
+
+Motif = TYR_PHOSPHO_SITE_2
+
+MRKMSEEEFYLFKNI
+  |      |
+  3      10
+
+
+#---------------------------------------
+#---------------------------------------
